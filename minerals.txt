@@ -159,7 +159,6 @@ Ammolite
 Amosite
 Antozonite
 Anyolite
-Beryl#Aquamarine and maxixe|Aquamarine
 Argentite
 Asbestos
 Auerlite
@@ -608,7 +607,6 @@ Gypsum
 Garnierite
 Gedanite
 Glessite
-Beryl#Goshenite|Goshenite
 Hafnon
 Hagendorfite
 Haggertyite
