@@ -14,7 +14,7 @@ import pandas as pd
 class Scraper(object):
 
     def __init__(self):
-        with open('./minerals.txt', 'r') as f:
+        with open('./minerals_extra.txt', 'r') as f:
             self.minerals = [x.rstrip() for x in f]
         self.obj = {m: {} for m in self.minerals}
         self.all_keys = set()
@@ -41,7 +41,7 @@ class Scraper(object):
     def get_csv(self):
         mineral_records = [{'name': m, **v} for m, v in self.obj.items()]
         df = pd.DataFrame.from_records(mineral_records)
-        df.to_csv(path_or_buf='./mineral_data.csv')
+        df.to_csv(path_or_buf='./mineral_data2.csv')
 
     def process(self):
         self.get_data()

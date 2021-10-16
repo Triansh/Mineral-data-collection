@@ -1,0 +1,279 @@
+{{short description|List of IMA recognized minerals and groupings}}
+This list gives an overview of the '''classification of minerals (silicates)''' and includes mostly [[International Mineralogical Association]] (IMA) recognized [[mineral]]s and its groupings. This list complements the [[List of minerals recognized by the International Mineralogical Association]] series of articles and [[List of minerals]]. Rocks, ores, mineral mixtures, non-IMA approved minerals and non-named minerals are mostly excluded.
+
+== Classification of minerals ==
+
+=== Introduction ===
+
+The grouping of the New Dana Classification and of the mindat.org is similar only, and so this classification is an overview only. Consistency is missing too on the group name endings (group, subgroup, series) between New Dana Classification and mindat.org. Category, class and supergroup name endings are used as layout tools in the list as well.
+ 
+====Abbreviations====
+* "*" – mineral not IMA-approved.
+* "<sup>Q</sup>" – doubtful/questionable.
+* Rn – renaming.
+* Rd – redefinition.
+* "REE" – [[rare-earth element]] (Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu).
+* "PGE" – [[Platinum group|platinum-group element]] (Ru, Rh, Pd, Os, Ir, Pt).
+* "s.p." – special procedure.
+
+=== Category '9': silicate minerals ===
+ {{maincat|Silicate minerals}}
+* Unclassified silicates
+
+==== Subclass '9.A': nesosilicates ====
+ {{maincat|Nesosilicates}}
+
+* Zircon group: {{chem2|MSiO4}} (a group of simple tetragonal silicates where M = tetravalent Zr, Th, or Hf)
+** [[Hafnon]] {{chem2|HfSiO4}}, [[Stetindite]] {{chem2|Ce[SiO4]}}, [[Thorite]] {{chem2|(Th,U)SiO4}}, [[Zircon]] {{chem2|ZrSiO4}}, [[Coffinite]] {{chem2|U(SiO4)_{1−''x''}(OH)_{4''x''}|}}, [[Thorogummite]] {{chem2|Th(SiO4)_{1−''x''}(OH)_{4''x''}|}}, IMA2008-035 {{chem2|CeSiO4}}
+* Olivine group
+** Calcio-Olivine {{chem2|Ca2SiO4}}, [[Fayalite]] {{chem2|(Fe(2+))2[SiO4]}}, [[Forsterite]] {{chem2|Mg2[SiO4]}}, [[Laihunite]] {{chem2|Fe(2+)(Fe(3+))2(SiO4)2}}, [[Liebenbergite]] {{chem2|(Ni,Mg)2[SiO4]}}, [[Olivine]] {{chem2|(Mg,Fe(2+))2[SiO4]}}, [[Tephroite]] {{chem2|(Mn(2+))2[SiO4]}}
+* Phenakite group
+** [[Phenakite]] {{chem2|Be2SiO4}}, [[Willemite]] {{chem2|Zn2SiO4}}, [[Eucryptite]] {{chem2|LiAlSiO4}}
+* {{chem2|Al2(SiO4)O}}
+** Sillimanite subgroup
+*** [[Sillimanite]] {{chem2|Al^{[6]}Al^{[4]}OSiO4}}, [[Mullite]] {{chem2|Al_{(4+2''x'')}Si_{(2-2''x'')}O_{(10-''x'')}|}} (''x''=0.17 to 0.59), [[Boromullite]] {{chem2|Al4.5SiB0.5O9.5}}
+** Andalusite subgroup
+*** [[Andalusite]] {{chem2|Al^{[6]}Al^{[5]}OSiO4}}, [[Kanonaite]] {{chem2|(Mn(3+),Al)AlSiO5}}, [[Yoderite]] {{chem2|Mg2(Al,Fe(3+))6Si4O18(OH)2}}
+** [[Kyanite]] {{chem2|Al^{[6]}Al^{[6]}OSiO4}}
+* Titanite group
+** [[Titanite]] {{chem2|CaTiSiO5}}, [[Malayaite]] {{chem2|CaSnOSiO4}}, [[Vanadomalayaite]] {{chem2|CaVOSiO4}}
+* Cerite group
+** [[Cerite]]-(Ce) {{chem2|(Ce(3+))9Fe(3+)(SiO4)6[(SiO3)(OH)](OH)3}}, Cerite-(La) {{chem2|(La,Ce,Ca)9(Mg,Fe(3+))(SiO4)6[SiO3(OH)](OH)3}}, [[Aluminocerite-(Ce)]] {{chem2|(Ce,REE,Ca)9(Al,Fe(3+))(SiO4)3[SiO3(OH)]4(OH)3}}
+* Silicate apatites
+** Ellestadite* {{chem2|Ca5(SiO4,PO4,SO4)3(F,OH,Cl)}}, [[Britholite]]-(Ce) {{chem2|(Ce,Ca,Th,La,Nd)5(SiO4,PO4)3(OH,F)}}, Britholite-(Y) {{chem2|(Y,Ca)5(SiO4,PO4)3(OH,F)}}, [[Ellestadite]]-(F) {{chem2|Ca5(SiO4,PO4,SO4)3(F,OH,Cl)}}, Ellestadite-(OH) {{chem2|Ca5(SiO4,SO4)3(OH,Cl,F)}}, Ellestadite-(Cl) {{chem2|Ca5(SiO4,PO4,SO4)3(Cl,OH,F)}}, [[Mattheddleite]] {{chem2|Pb20(SiO4)7(SO4)4Cl4}}, [[Karnasurtite-(Ce)]] {{chem2|(Ce,La,Th)(Ti,Nb)(Al,Fe(3+))(Si,P)2O7(OH)4*3(H2O)}} (?), [[Fluorbritholite]]-(Ce) {{chem2|(Ca,Ce,La,Na)5(SiO4,PO4)3(OH,F)}}, [[Fluorcalciobritholite]] {{chem2|(Ca,REE)5[(Si,P)O4]3F}}
+* Uranophane group
+** [[Kasolite]] {{chem2|Pb(UO2)SiO4*H2O}}, [[Uranophane]] {{chem2|Ca(UO2)2SiO3(OH)2*5H2O}}, [[Sklodowskite]] {{chem2|(H3O)2Mg(UO2)2(SiO4)2*4H2O}}, [[Cuprosklodowskite]] {{chem2|Cu[(UO2)(SiO2OH)]2*6H2O}}, [[Boltwoodite]] {{chem2|HK(UO2)(SiO4)*1.5H2O}}, [[Natroboltwoodite]] {{chem2|(H3O)(Na,K)(UO2)SiO4*H2O}}, [[Oursinite]] {{chem2|(Co,Mg)(H3O)2[(UO2)SiO4]2*3H2O}}, [[Swamboite]] {{chem2|U(7+)H6(UO2)6(SiO4)6*30H2O}}, Uranophane-beta {{chem2|Ca[(UO2)SiO3(OH)]2*H2O}}
+* Datolite group
+** Datolite series
+*** [[Datolite]] {{chem2|CaBSiO4(OH)}}, [[Hingganite]]-(Ce) {{chem2|(Ce,Ca)2([{{nbsp}}],Fe)Be2Si2O8[(OH),O]2}}, Hingganite-(Y) {{chem2|Y2([{{nbsp}}])Be2Si2O8(OH)2}}, Hingganite-(Yb) {{chem2|(Yb,Y)2([{{nbsp}}])Be2Si2O8(OH)2}}, [[Calcybeborosilite-(Y)]] {{chem2|(REE,Ca)2[{{nbsp}}](B,Be)2(SiO4)2(OH,O)2}}
+** Homilite series
+*** [[Bakerite]] {{chem2|Ca4B4(BO4)(SiO4)3(OH)3*H2O}}, [[Gadolinite]]-(Ce) {{chem2|(Ce,La,Nd,Y)2Fe(2+)Be2Si2O10}}, Gadolinite-(Y) {{chem2|Y2Fe(2+)Be2Si2O10}}, [[Calciogadolinite]]? {{chem2|CaREE(Fe(3+))Be2Si2O10}}, [[Homilite]] {{chem2|Ca2(Fe(2+),Mg)B2Si2O10}}, [[Minasgeraisite-(Y)]] {{chem2|CaY2Be2Si2O10}}
+* Hellandite group
+** [[Hellandite]]-(Y) {{chem2|(Ca,REE)4(Y,Ce)2(Al,[{{nbsp}}])2[Si4B4O22](OH)2}}
+** [[Tadzhikite]]-(Y) {{chem2|Ca4(Y,Ce)2(Ti,Al,Fe(3+),[{{nbsp}}])2[Si4B4O22](OH)2}}
+** Tadzhikite-(Ce) {{chem2|Ca4(Ce,Y)2(Ti,Al,Fe(3+),[{{nbsp}}])2[Si4B4O22](OH)2}}
+** Hellandite-(Ce) {{chem2|(Ca3REE)4Ce2Al[{{nbsp}}]2[Si4B4O22](OH)2}}
+** [[Mottanaite-(Ce)]] {{chem2|Ca4(Ce,Ca)2AlBe2[Si4B4O22]O2}}
+** [[Ciprianiite]] {{chem2|Ca4[(Th,U)(REE)]2(Al,[{{nbsp}}])2[Si4B4O22](OH,F)2}}
+** [[Piergorite-(Ce)]] {{chem2|Ca8Ce2(Al0.5(Fe(3+))0.5)([{{nbsp}}],Li,Be)2Si6B8O36(OH,F)2}}
+* Vicanite group
+** [[Vicanite-(Ce)]] {{chem2|(Ca,Ce,La,Th)15As(5+)(As(3+)0.5,Na0.5)Fe(3+)Si6B4O40F7}}
+** [[Hundholmenite-(Y)]] {{chem2|(Y,REE,Ca,Na)15(Al,Fe(3+))Ca_{''x''}(As(3+))_{1−''x''}(Si,As(5+))Si6B3(O,F)48}}
+** [[Proshchenkoite-(Y)]] {{chem2|(Y,REE,Ca,Na,Mn)15Fe(2+)Ca(P,Si)Si6B3(O,F)48}}
+
+===== "Garnet" supergroup =====
+*Nesosilicate insular {{chem2|SiO4}} groups only with cations in [6] and >[6] coordination
+* [[:Category:Garnet group|Garnet group]], {{chem2|X3Z2(TO4)3}} (X = Ca, Fe, etc., Z = Al, Cr, etc., T = Si, As, V, etc.)
+** Pyralspite series
+*** [[Pyrope]] {{chem2|Mg3Al2(SiO4)3}}, [[Almandine]] {{chem2|(Fe(2+))3Al2(SiO4)3}}, [[Spessartine]] {{chem2|(Mn(2+))3Al2(SiO4)3}}, [[Knorringite]] {{chem2|Mg3Cr2(SiO4)3}}, [[Majorite]] {{chem2|Mg3(Fe,Al,Si)2(SiO4)3}}, [[Calderite]] {{chem2|(Mn(2+),Ca)3(Fe(3+),Al)2(SiO4)3}}
+** Ugrandite series
+*** [[Andradite]] {{chem2|Ca3(Fe(3+))2(SiO4)3}}, [[Grossular]] {{chem2|Ca3Al2(SiO4)3}}, [[Uvarovite]] {{chem2|Ca3Cr2(SiO4)3}}, [[Goldmanite]] {{chem2|Ca3(V,Al,Fe(3+))2(SiO4)3}}, [[Yamatoite]]? {{chem2|(Mn(2+),Ca)3(V(3+),Al)2(SiO4)3}}
+** Schorlomite – Kimzeyite series
+*** [[Schorlomite]] {{chem2|Ca3(Ti,Fe(3+),Al)2[(Si,Fe(3+),Fe(2+))O4]3}}, [[Kimzeyite]] {{chem2|Ca3(Zr,Ti)2(Si,Al,Fe(3+))3O12}}, [[Morimotoite]] {{chem2|Ca3TiFe(2+)Si3O12}}
+** Hydrogarnet
+*** [[Hibschite]] {{chem2|Ca3Al2(SiO4)_{3−''x''}(OH)_{4''x''}|}} (x=0.2 to 1.5), [[Katoite]] {{chem2|Ca3Al2(SiO4)_{3−''x''}(OH)_{4''x''}|}} (x=1.5 to 3)
+** Tetragonal hydrogarnet
+*** [[Henritermierite]] {{chem2|Ca3(Mn,Al)2(SiO4)2(OH)4}}, [[Holtstamite]] {{chem2|Ca3(Al,Mn(3+))2(SiO4)2(OH)4}}
+* [[Bredigite]] {{chem2|Ca7Mg(SiO4)4}}, [[Merwinite]] {{chem2|Ca3Mg(SiO4)2}}, [[Wadalite]] {{chem2|Ca6Al5Si2O16Cl3}}, [[Rondorfite]] {{chem2|Ca8Mg(SiO4)4Cl2}}
+
+===== "Humite" supergroup =====
+*Nesosilicate insular {{chem2|SiO4}} groups and O, OH, F, and {{chem2|H2O}} with cations in [6] coordination only
+* Topaz group
+** [[Topaz]] {{chem2|Al2SiO4(F,OH)2}}, [[Krieselite]] {{chem2|(Al,Ga)2(Ge,C)O4(OH)2}}
+* [[Humite (mineral group)|Humite]], general formula {{chem2|A_{''n''}(SiO4)_{''m''}(F,OH)2}}
+** Chondrodite series
+*** [[Alleghanyite]] {{chem2|(Mn(2+))5(SiO4)2(OH,F)2}}, [[Chondrodite]] {{chem2|(Mg,Fe,Ti)5(SiO4)2(F,OH,O)2}}, [[Reinhardbraunsite]] {{chem2|Ca5(SiO4)2(OH,F)2}}, [[Ribbeite]] {{chem2|Mn5(SiO4)2(OH)2}}, [[Kumtyubeite]] {{chem2|Ca5(SiO4)2F2}}
+** Humite series
+*** [[Humite]] {{chem2|(Mg,Fe(2+))7(SiO4)3(F,OH)2}}, [[Leucophoenicite]] {{chem2|(Mn,Ca,Mg,Zn)(SiO4)3(OH)2}}, [[Manganhumite]] {{chem2|(Mn,Mg)7(SiO4)3(OH)2}}, [[Chegemite]] {{chem2|Ca7(SiO4)3(OH)2}}
+** Clinohumite series
+*** [[Clinohumite]] {{chem2|(Mg,Fe(2+))9(SiO4)4(F,OH)2}}, [[Jerrygibbsite]] {{chem2|(Mn,Zn)9(SiO4)4(OH)2}}, [[Sonolite]] {{chem2|Mn9(SiO4)4(F,OH)2}}, [[Hydroxylclinohumite]] {{chem2|Mg9(SiO4)4[(OH,F)2}}
+**[[Norbergite]] {{chem2|Mg3(SiO4)(F,OH)2}}
+*Chloritoid group
+** [[Chloritoid]] {{chem2|(Fe(2+),Mg,Mn)2Al4Si2O10(OH)4}}, [[Magnesiochloritoid]] {{chem2|MgAl2SiO5(OH)2}}, [[Ottrelite]] {{chem2|(Mn,Fe(2+),Mg)2Al4Si2O10(OH)4}}, [[Carboirite-VIII]] {{chem2|Fe(2+)(Al,Ge)2O[(Ge,Si)O4](OH)2}}
+
+==== Subclass '9.B': sorosilicates ====
+ {{maincat|Sorosilicates}}
+
+* [[:Category:Epidote group|Epidote supergroup]], {{chem2|{A2}{M3}(Si2O7)(SiO4)O(OH)}}
+** Epidote group
+*** [[Clinozoisite]] {{chem2|Ca2Al3(SiO4)3(OH)\dCa2AlAl2(SiO4)(Si2O7)O(OH)}}, [[Niigataite]] {{chem2|CaSrAl3(Si2O7)(SiO4)O(OH)}}, [[Epidote]] {{chem2|Ca2Fe(3+)Al2(Si2O7)(SiO4)O(OH)}}, [[Hancockite]] {{chem2|CaPb(Al2Fe(3+))(Si2O7)(SiO4)O(OH)}}, [[Mukhinite]] {{chem2|Ca2Al2V(3+)(Si2O7)(SiO4)O(OH)}}, [[Piemontite]] {{chem2|Ca2Mn(3+)Al2(Si2O7)(SiO4)O(OH)}}, Piemontite-(Sr) {{chem2|CaSrMn(3+)Al2(Si2O7)(SiO4)O(OH)}}, [[Tweddillite]] {{chem2|CaSrMn(3+)2Al(Si2O7)(SiO4)O(OH)}}
+** Allanite group
+*** [[Allanite]]-(Ce) {{chem2|CaCeAl2Fe(2+)(Si2O7)(SiO4)O(OH)}}, Allanite-(La) {{chem2|CaLaFe(2+)Al2(Si2O7)(SiO4)O(OH)}}, Allanite-(Y) {{chem2|CaYAl2Fe(2+)(Si2O7)(SiO4)O(OH)}}, [[Dissakisite]]-(Ce) {{chem2|CaCeMgAl2(Si2O7)(SiO4)O(OH)}}, Dissakisite-(La) {{chem2|CaLaMgAl2(Si2O7)(SiO4)O(OH)}}, [[Ferriallanite-(Ce)]] {{chem2|CaCe(3+)Fe(2+)Fe(3+)Al(SiO4)(Si2O7)O(OH)}}, [[Manganiandrosite]]-(Ce) {{chem2|(Mn(2+),Ca)(Ce,REE)AlMn(3+)Mn(2+)(Si2O7)(SiO4)O(OH)}}, Manganiandrosite-(La) {{chem2|Mn(2+)La(3+)AlMn(3+)Mn(2+)(Si2O7)(SiO4)O(OH)}}, [[Vanadoandrosite-(Ce)]] {{chem2|Mn(2+)Ce(3+)V(3+)AlMn(2+)O(Si2O7)(SiO4)(OH)}}
+** Dollaseite group
+*** [[Dollaseite-(Ce)]] {{chem2|CaCeMg2Al(Si2O7)(SiO4)(OH)F}}, [[Khristovite-(Ce)]] {{chem2|CaCe(3+)(MgAlMn(2+))(Si2O7)(SiO4)F(OH)}}, Mills et al. (2009){{verify source|date=August 2020}}
+
+==== Subclass '9.C': cyclosilicates ====
+ {{maincat|Cyclosilicates}}
+
+* Tourmaline group
+** Alkali-Deficient Tourmaline subgroup - Foitite subgroup
+*** [[Foitite]] [ ][(Fe<sup>2+</sup>)<sub>2</sub>(Al,Fe<sup>3+</sup>)][Al<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Magnesiofoitite]] [ ][Mg<sub>2</sub>(Al,Fe<sup>3+</sup>)][Al<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Rossmanite]] [ ][LiAl<sub>2</sub>][Al<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], Oxy-Rossmanite [ ][LiAl<sub>2</sub>]Al<sub>6</sub>(OH)<sub>3</sub>O(BO<sub>3</sub>)<sub>3</sub>[Si<sub>6</sub>O<sub>18</sub>]
+** Calcic Tourmaline subgroup - Liddicoatite subgroup
+***[[Liddicoatite]] [Ca][Li<sub>2</sub>Al][Al<sub>6</sub>][(OH)<sub>3</sub>|F|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Uvite]] CaMg<sub>3</sub>(Al<sub>5</sub>Mg)(Si<sub>6</sub>O<sub>18</sub>)(BO<sub>3</sub>)<sub>3</sub>(OH)<sub>4</sub>, [[Feruvite]] [Ca][(Fe<sup>2+</sup>,Mg)<sub>3</sub>][MgAl<sub>5</sub>][(OH)<sub>3</sub>|F|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], Hydroxyuvite (IMA2000-030 was not approved, but suspended) CaMg<sub>3</sub>(Al<sub>5</sub>Mg)(Si<sub>6</sub>O<sub>18</sub>)(BO<sub>3</sub>)<sub>3</sub>(OH)<sub>3</sub>(OH)
+** Ferric Tourmaline subgroup - Buergerite subgroup
+*** [[Buergerite]] [Na][(Fe<sup>3+</sup>)<sub>3</sub>][Al<sub>6</sub>][O<sub>3</sub>|F|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Povondraite]] [Na][(Fe<sup>3+</sup>)<sub>3</sub>][(Fe<sup>3+</sup>)<sub>4</sub>Mg<sub>2</sub>][(OH)<sub>3</sub>|O|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>]
+** Lithian Tourmaline subgroup - Elbaite subgroup
+*** [[Olenite]] NaAl<sub>9</sub>B<sub>3</sub>Si<sub>6</sub>O<sub>27</sub>O<sub>3</sub>OH, [[Oxy-Dravite]] Na(MgAl<sub>2</sub>)(MgAl<sub>5</sub>)Si<sub>6</sub>O<sub>18</sub>(BO<sub>3</sub>)<sub>3</sub>(OH)<sub>3</sub>O, [[Elbaite]] Na(Al<sub>1.5</sub>Li<sub>1.5</sub>)Al<sub>6</sub>(OH)<sub>3</sub>(OH)(BO<sub>3</sub>)<sub>3</sub>Si<sub>6</sub>O<sub>18</sub>
+**Sodic Tourmaline subgroup - Schorl subgroup
+*** [[Dravite]] [Na][Mg<sub>3</sub>][Al<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], Fluor-Dravite NaMg<sub>3</sub>Al<sub>6</sub>(OH)<sub>3</sub>F(BO<sub>3</sub>)<sub>3</sub>(Si<sub>6</sub>O<sub>18</sub>), [[Schorl]] [Na][(Fe<sup>2+</sup>)<sub>3</sub>][Al<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], Schorl-(F) [Na][(Fe<sup>2+</sup>)<sub>3</sub>][Al<sub>6</sub>][(OH)<sub>3</sub>|F,OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Chromdravite]] [Na][Mg<sub>3</sub>][(Cr<sup>3+</sup>,Fe<sup>3+</sup>)<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>], [[Vanadiumdravite]] [Na][Mg<sub>3</sub>][(V<sup>3+</sup>)<sub>6</sub>][(OH)<sub>3</sub>|OH|(BO<sub>3</sub>)<sub>3</sub>|Si<sub>6</sub>O<sub>18</sub>]
+* Eudialyte group
+** [[Carbokentbrooksite]] (Na,[ ])<sub>12</sub>(Na,Ce)<sub>3</sub>Ca<sub>6</sub>Mn<sub>3</sub>Zr<sub>3</sub>Nb(Si<sub>25</sub>O<sub>73</sub>)(OH)<sub>3</sub>(CO<sub>3</sub>)•H<sub>2</sub>O
+** [[Eudialyte]] Na<sub>4</sub>(Ca,Ce)<sub>2</sub>(Fe<sup>2+</sup>,Mn,Y)ZrSi<sub>8</sub>O<sub>22</sub>(OH,Cl)<sub>2</sub> (?)
+** [[Feklichevite]] Na<sub>11</sub>Ca<sub>9</sub>(Fe<sup>3+</sup>,Fe<sup>2+</sup>)<sub>2</sub>Zr<sub>3</sub>Nb[Si<sub>25</sub>O<sub>73</sub>](OH,H<sub>2</sub>O,Cl,O)<sub>5</sub>
+** [[Ferrokentbrooksite]] Na<sub>15</sub>Ca<sub>6</sub>(Fe,Mn)<sub>3</sub>Zr<sub>3</sub>NbSi<sub>25</sub>O<sub>73</sub>(O,OH,H<sub>2</sub>O)<sub>3</sub>(Cl,F,OH)<sub>2</sub>
+** [[Georgbarsanovite]] Na<sub>12</sub>(Mn,Sr,REE)<sub>3</sub>Ca<sub>6</sub>(Fe<sup>2+</sup>)<sub>3</sub>Zr<sub>3</sub>NbSi<sub>25</sub>O<sub>76</sub>Cl<sub>2</sub>•H<sub>2</sub>O
+** [[Golyshevite]] (Na,Ca)<sub>10</sub>Ca<sub>9</sub>(Fe<sup>3+</sup>,Fe<sup>2+</sup>)<sub>2</sub>Zr<sub>3</sub>NbSi<sub>25</sub>O<sub>72</sub>(CO<sub>3</sub>)(OH)<sub>3</sub>•H<sub>2</sub>O
+** [[Ikranite]] (Na,H<sub>3</sub>O)<sub>15</sub>(Ca,Mn,REE)<sub>6</sub>(Fe<sup>3+</sup>)<sub>2</sub>Zr<sub>3</sub>([ ],Zr)([ ],Si)Si<sub>24</sub>O<sub>66</sub>(O,OH)<sub>6</sub>Cl•2-3H<sub>2</sub>O
+** [[Johnsenite-(Ce)]] Na<sub>12</sub>(Ce,REE,Sr)<sub>3</sub>Ca<sub>6</sub>Mn<sub>3</sub>Zr<sub>3</sub>W(Si<sub>25</sub>O<sub>73</sub>)(CO<sub>3</sub>)(OH,Cl)<sub>2</sub>
+** [[Kentbrooksite]] (Na,REE)<sub>15</sub>(Ca,REE)<sub>6</sub>Mn<sup>2+</sup>Zr<sub>3</sub>NbSi<sub>25</sub>O<sub>74</sub>F<sub>2</sub>•2H<sub>2</sub>O
+** [[Khomyakovite]] Na<sub>12</sub>Sr<sub>3</sub>Ca<sub>6</sub>Fe<sub>3</sub>Zr<sub>3</sub>W(Si<sub>25</sub>O<sub>73</sub>)(O,OH,H<sub>2</sub>O)<sub>3</sub>(OH,Cl)<sub>2</sub>
+** [[Manganokhomyakovite]] Na<sub>12</sub>Sr<sub>3</sub>Ca<sub>6</sub>Mn<sub>3</sub>Zr<sub>3</sub>W(Si<sub>25</sub>O<sub>73</sub>)(O,OH,H<sub>2</sub>O)<sub>3</sub>(OH,Cl)<sub>2</sub>
+** [[Mogovidite]] Na<sub>9</sub>(Ca,Na)<sub>6</sub>Ca<sub>6</sub>Fe<sub>2</sub>Zr<sub>3</sub>[ ]Si<sub>25</sub>O<sub>72</sub>(CO<sub>3</sub>)(OH)<sub>4</sub>
+** [[Oneillite]] Na<sub>15</sub>Ca<sub>3</sub>Mn<sub>3</sub>(Fe<sup>2+</sup>)<sub>3</sub>Zr<sub>3</sub>Nb(Si<sub>25</sub>O<sub>73</sub>)(O,OH,H<sub>2</sub>O)<sub>3</sub>(OH,Cl)<sub>2</sub>
+** [[Raslakite]] Na<sub>15</sub>Ca<sub>3</sub>Fe<sub>3</sub>(Na,Zr)<sub>3</sub>Zr<sub>3</sub>(Si,Nb)(Si<sub>25</sub>O<sub>73</sub>)(OH,H<sub>2</sub>O)<sub>3</sub>(Cl,OH)
+** [[Rastsvetaevite]] Na<sub>27</sub>K<sub>8</sub>Ca<sub>12</sub>Fe<sub>3</sub>Zr<sub>6</sub>Si<sub>52</sub>O<sub>144</sub>(O,OH,H<sub>2</sub>O)<sub>6</sub>Cl<sub>2</sub>
+** [[Taseqite]] Na<sub>12</sub>Sr<sub>3</sub>Ca<sub>6</sub>Fe<sub>3</sub>Zr<sub>3</sub>NbSi<sub>25</sub>O<sub>73</sub>(O,OH,H<sub>2</sub>O)<sub>3</sub>Cl<sub>2</sub>
+** [[Zirsilite-(Ce)]] (Na,[ ])<sub>12</sub>(Ce, Na)<sub>3</sub>Ca<sub>6</sub>Mn<sub>3</sub>Zr<sub>3</sub>Nb(Si<sub>25</sub>O<sub>73</sub>)(OH)<sub>3</sub>(CO<sub>3</sub>)•H<sub>2</sub>O
+** [[Alluaivite]] Na<sub>19</sub>(Ca,Mn<sup>2+</sup>)<sub>6</sub>(Ti,Nb)<sub>3</sub>(Si<sub>3</sub>O<sub>9</sub>)<sub>2</sub>(Si<sub>10</sub>O<sub>28</sub>)<sub>2</sub>Cl•2H<sub>2</sub>O
+** [[Andrianovite]] Na<sub>12</sub>(K,Sr,Ce)<sub>3</sub>Ca<sub>6</sub>Mn<sub>3</sub>Zr<sub>3</sub>Nb(Si<sub>25</sub>O<sub>73</sub>)(O,H<sub>2</sub>O,OH)<sub>5</sub>
+** [[Aqualite]] (H<sub>3</sub>O)<sub>8</sub>(Na,K,Sr)<sub>5</sub>Ca<sub>6</sub>Zr<sub>3</sub>Si<sub>26</sub>O<sub>66</sub>(OH)<sub>9</sub>Cl
+** [[Dualite]] Na<sub>30</sub>(Ca,Na,Ce,Sr)<sub>12</sub>(Na,Mn,Fe,Ti)<sub>6</sub>Zr<sub>3</sub>Ti<sub>3</sub>MnSi<sub>51</sub>O<sub>144</sub>(OH,H<sub>2</sub>O,Cl)<sub>9</sub>
+** [[Labyrinthite]] (Na,K,Sr)<sub>35</sub>Ca<sub>12</sub>Fe<sub>3</sub>Zr<sub>6</sub>TiSi<sub>51</sub>O<sub>144</sub>(O,OH,H<sub>2</sub>O)<sub>9</sub>Cl<sub>3</sub>, Mills et al. (2009)
+
+==== Subclass '9.D': inosilicates ====
+ {{maincat|Inosilicates}}
+
+===== Single chain inosilicates =====
+* Astrophyllite group
+** [[Astrophyllite]] K<sub>2</sub>Na(Fe<sup>2+</sup>,Mn)<sub>7</sub>Ti<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>
+** [[Magnesioastrophyllite]] K<sub>2</sub>Na[Na(Fe<sup>2+</sup>,Fe<sup>3+</sup>,Mn)Mg<sub>2</sub>]Ti<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>F
+** [[Hydroastrophyllite]] (H<sub>3</sub>O,K)<sub>2</sub>Ca(Fe<sup>3+</sup>,Mn)<sub>5-6</sub>Ti<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>F
+** [[Niobophyllite]] K<sub>2</sub>Na(Fe<sup>2+</sup>,Mn)<sub>7</sub>(Nb,Ti)<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>(F,O)
+** [[Zircophyllite]] K<sub>2</sub>(Na,Ca)(Mn,Fe<sup>2+</sup>)<sub>7</sub>(Zr,Nb)<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>F
+** [[Kupletskite]] K<sub>2</sub>Na(Mn,Fe<sup>2+</sup>)<sub>7</sub>(Ti,Nb)<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>F
+** Kupletskite-(Cs) (Cs,K)<sub>2</sub>Na(Mn,Fe<sup>2+</sup>,Li)<sub>7</sub>(Ti,Nb)<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>F
+** [[Niobokupletskite]] K<sub>2</sub>Na(Mn,Zn,Fe)<sub>7</sub>(Nb,Zr,Ti)<sub>2</sub>Si<sub>8</sub>O<sub>26</sub>(OH)<sub>4</sub>(O,F), Mills et al. (2009)
+* Sapphirine supergroup
+** Sapphirine group
+*** [[Khmaralite]] (Mg,Al,Fe)<sub>16</sub>(Al,Si,Be)<sub>12</sub>O<sub>40</sub>, [[Sapphirine]] (Mg,Al)<sub>8</sub>(Al,Si)<sub>6</sub>O<sub>20</sub>
+** Aenigmatite group
+*** [[Aenigmatite]] (Na,Ca)<sub>4</sub>(Fe<sup>2+</sup>,Ti,Mg)<sub>12</sub>Si<sub>12</sub>O<sub>40</sub>, [[Krinovite]] NaMg<sub>2</sub>CrSi<sub>3</sub>O<sub>10</sub>, [[Wilkinsonite]] Na<sub>2</sub>(Fe<sup>2+</sup>)<sub>4</sub>(Fe<sup>3+</sup>)<sub>2</sub>Si<sub>6</sub>O<sub>20</sub>
+** Rhoenite group
+*** [[Dorrite]] Ca<sub>2</sub>Mg<sub>2</sub>(Fe<sup>3+</sup>)<sub>4</sub>(Al,Fe<sup>3+</sup>)<sub>4</sub>Si<sub>2</sub>O<sub>20</sub>, [[Hogtuvaite]] (Ca,Na)2(Fe<sup>2+</sup>,Fe<sup>3+</sup>,Ti,Mg,Mn)<sub>6</sub>(Si,Be,Al)<sub>6</sub>O<sub>20</sub>, [[Makarochkinite]] Ca<sub>2</sub>(Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>TiSi<sub>4</sub>BeAlO<sub>20</sub>, [[Rhonite]] Ca<sub>2</sub>(Mg,Fe2+,Fe3+,Ti)<sub>6</sub>(Si,Al)<sub>6</sub>O<sub>20</sub>, [[Serendibite]] Ca<sub>2</sub>(Mg,Al)<sub>6</sub>(Si,Al,B)<sub>6</sub>O<sub>20</sub>, [[Welshite]] Ca<sub>4</sub>Mg<sub>9</sub>Sb<sub>3</sub>O<sub>4</sub>[Si<sub>6</sub>Be<sub>3</sub>AlFe<sub>2</sub>O<sub>36</sub>]
+** [[Surinamite]] (Mg,Fe<sup>2+</sup>)<sub>3</sub>Al<sub>4</sub>BeSi<sub>3</sub>O<sub>16</sub>, Mills et al. (2009)
+
+====== Pyroxene supergroup ======
+[[Image:pyrox names.svg|thumb|Pyroxene Quadrilateral]]
+* Orthopyroxene group
+** [[Donpeacorite]] (Mn<sup>2+</sup>,Mg)Mg[SiO<sub>3</sub>]<sub>2</sub>, [[Enstatite]] MgSiO<sub>3</sub>, [[Ferrosilite]], FeSiO<sub>3</sub>
+* Clinopyroxene group
+** [[Aegirine]] NaFe<sup>3+</sup>Si<sub>2</sub>O<sub>6</sub>, [[Augite]] (Ca,Na)(Mg,Fe<sup>2+</sup>,Al,Fe<sup>3+</sup>,Ti)[(Si,Al)<sub>2</sub>O<sub>6</sub>], [[Clinoenstatite]] MgSiO<sub>3</sub>, [[Clinoferrosilite]] Fe<sup>2+</sup>SiO<sub>3</sub>, [[Diopside]] CaMg[Si<sub>2</sub>O<sub>6</sub>], [[Esseneite]] CaFe<sup>3+</sup>[AlSiO<sub>6</sub>], [[Grossmanite]] CaTi<sup>3+</sup>AlSiO<sub>6</sub>, [[Hedenbergite]] CaFe<sup>2+</sup>[Si<sub>2</sub>O<sub>6</sub>], [[Jadeite]] Na(Al,Fe<sup>3+</sup>)[Si<sub>2</sub>O<sub>6</sub>], [[Jervisite]] (Na,Ca,Fe<sup>2+</sup>)(Sc,Mg,Fe<sup>2+</sup>)[Si<sub>2</sub>O<sub>6</sub>], [[Johannsenite]] CaMn<sup>2+</sup>[Si<sub>2</sub>O<sub>6</sub>], [[Kanoite]] Mn<sup>2+</sup>(Mg,Mn<sup>2+</sup>)[Si<sub>2</sub>O<sub>6</sub>], [[Kosmochlor]] NaCr[Si<sub>2</sub>O<sub>6</sub>], [[Kushiroite]] CaAl[Si<sub>2</sub>O<sub>6</sub>], [[Namansilite]] NaMn3+[Si<sub>2</sub>O<sub>6</sub>], [[Natalyite]] Na(V<sup>3+</sup>,Cr)[Si<sub>2</sub>O<sub>6</sub>], [[Petedunnite]] Ca(Zn,Mn<sup>2+</sup>,Mg,Fe<sup>2+</sup>)[Si<sub>2</sub>O<sub>6</sub>], [[Pigeonite]] (Mg,Fe<sup>2+</sup>,Ca)(Mg,Fe<sup>2+</sup>)Si<sub>2</sub>O<sub>6</sub>, [[Spodumene]] LiAlSi<sub>2</sub>O<sub>6</sub>
+
+===== Multiple chain inosilicates =====
+Note: the amphibole subcommittee (CNMNC/ [[International Mineralogical Association|IMA]]) published many reports (IMA 1978 s.p., IMA 1997 s.p., IMA 2003 s.p., IMA 2012 s.p.), renaming and redefining many minerals. Working draft: rruff.info, mindat.org and mineralienatlas.de are not up to date yet.
+
+====== Amphibole supergroup ======
+
+* w(OH, F, Cl)-dominant amphibole: calcic subgroup
+** Cannilloite root name: [[fluoro-cannilloite]] CaCa<sub>2</sub>Mg<sub>4</sub>Al(Si<sub>5</sub>Al<sub>3</sub>)O<sub>22</sub>(OH)<sub>2</sub> (1993-033, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from cannilloite)
+** Edenite root name: [[edenite]] Na[Ca<sub>2</sub>][Mg<sub>5</sub>][(OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (1839, IMA 2012 s.p. Rd), [[ferro-edenite]] [Na][Ca<sub>2</sub>][(Fe<sup>2+</sup>)<sub>5</sub>][(OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (1946, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[fluoro-edenite]] Na[Ca<sub>2</sub>][Mg<sub>5</sub>][(F,OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (IMA 1994-059, IMA 2012 s.p. Rd)
+** Hastingsite root name: [[hastingsite]] [Na][Ca<sub>2</sub>][(Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (1896, IMA 2012 s.p. Rd), [[magnesio-fluoro-hastingsite]] (Na,K)Ca<sub>2</sub>(Mg,Fe<sup>3+</sup>,Ti)<sub>5</sub>(Si,Al)<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2005-002, IMA 2012 s.p. Rd Rn from fluoro-magnesiohastingsite), [[magnesio-hastingsite]] Na[Ca<sub>2</sub>][Mg<sub>4</sub>Fe<sup>3+</sup>][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (1928, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from magnesiohastingsite), [[potassic-fluoro-hastingsite]] KCa2((Fe<sup>2+</sup>)<sub>2</sub>,Mg<sub>2</sub>,Fe<sup>3+</sup>)S<sub>5</sub>(Si<sub>6</sub>Al<sub>2</sub>)<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2005-006, IMA 2012 s.p. Rd Rn from fluoro-potassichastingsite), [[potassic-chloro-hastingsite]] KCa<sub>2</sub>(Mg<sub>4</sub>Al)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>Cl<sub>2</sub> (IMA 2005-007, IMA 2012 s.p. Rd Rn from chloro-potassicpargasite, syn. dashkesanite), [[potassic-magnesio-hastingsite]] (K,Na)Ca<sub>2</sub>(Mg,Fe<sup>2+</sup>,Fe<sup>3+</sup>,Al)<sub>5</sub>(Si,Al)<sub>8</sub>O<sub>22</sub>(OH,Cl)<sub>2</sub> (IMA 2004-027b, IMA 2012 s.p. Rd Rn from potassic-magnesiohastingsite)
+** [[Joesmithite]] PbCa<sub>2</sub>(Mg,Fe<sup>2+</sup>,Fe<sup>3+</sup>)<sub>5</sub>Si<sub>6</sub>Be<sub>2</sub>O<sub>22</sub>(OH)<sub>2</sub> (1968, IMA 2012 s.p. Rd)
+** Magnesio-hornblende root name: [[Ferrohornblende|ferro-hornblende]] [Ca<sub>2</sub>][(Fe<sup>2+</sup>)<sub>4</sub>Al][(OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (1930, IMA 1978 s.p., IMA 1997 s.p. Rn from ferro-hornblende, IMA 2012 s.p. Rd Rn from ferrohornblende),  [[Magnesiohornblende|magnesio-hornblende]] [Ca<sub>2</sub>][Mg<sub>4</sub>Al][(OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (1965, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from magnesiohornblende)
+** Pargasite root name: [[chromio-pargasite]] (IMA 2011-023, IMA 2012 s.p. Rd Rn from ehimeite), [[ferro-pargasite]] [Na][Ca<sub>2</sub>][(Fe<sup>2+</sup>)<sub>4</sub>Al][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (1961, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from ferropargasite), [[fluoro-pargasite]] NaCa<sub>2</sub>(Mg<sub>3</sub>Fe<sup>2+</sup>Al)<sub>5</sub>(Si<sub>6</sub>Al<sub>2</sub>O<sub>22</sub>)F<sub>2</sub> (IMA 2003-050, IMA 2012 s.p. Rd Rn from fluoropargasite), [[pargasite]] [Na][Ca<sub>2</sub>][Mg<sub>4</sub>Al][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (1815, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[potassic-chloro-pargasite]] KCa<sub>2</sub>((Fe<sup>2+</sup>)<sub>3</sub>MgFe<sup>3+</sup>)(Si<sub>6</sub>Al<sub>2</sub>)S<sub>8</sub>O<sub>22</sub>Cl<sub>2</sub> (IMA 2001-036, IMA 2012 s.p. Rd Rn from chloro-potassichastingsite), [[potassic-ferro-pargasite]] KCa<sub>2</sub>((Fe<sup>2+</sup>)<sub>4</sub>Al)Si<sub>6</sub>Al<sub>2</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2007-053, IMA 2012 s.p. Rd Rn from potassic-ferropargasite), [[potassic-fluoro-pargasite]] (IMA 2009-091, IMA 2012 s.p. Rd Rn from fluoro-potassic-pargasite), [[potassic-pargasite]] [K][Ca<sub>2</sub>][Mg<sub>4</sub>Al][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (IMA 1994-046, IMA 2012 s.p. Rd Rn from potassicpargasite)
+** Sadanagaite root name: [[potassic-ferro-ferri-sadanagaite]] [K][Ca<sub>2</sub>][(Fe<sup>2+</sup>)<sub>3</sub>(Fe<sup>3+</sup>)<sub>2</sub>][(OH)<sub>2</sub>|Al<sub>3</sub>Si<sub>5</sub>O<sub>22</sub>] (IMA 1997-035, IMA 2012 s.p. Rd Rn from potassic-ferrisadanagaite), [[potassic-ferro-sadanagaite]] KCa<sub>2</sub>Fe<sup>2+</sup><sub>3</sub>(Al,Fe<sup>3+</sup>)<sub>2</sub>(Si<sub>5</sub>Al<sub>3</sub>)O<sub>22</sub>(OH)<sub>2</sub> (IMA 1980-027, 2004 Rd, IMA 1997 s.p. Rd Rn from sadanagaite, IMA 2012 s.p. Rd Rn from potassicsadanagaite), [[potassic-sadanagaite]] (K,Na)Ca<sub>2</sub>(Mg,Fe<sup>2+</sup>,Al,Ti)<sub>5</sub>[(Si,Al)<sub>8</sub>O<sub>22</sub>] (IMA 1982-102, 2004 Rd, IMA 2003 s.p. Rn from magnesio-sadanagaite, IMA 2012 s.p. Rd Rn from potassic-magnesiosadanagaite), [[sadanagaite]] [Na][Ca<sub>2</sub>][Mg<sub>3</sub>Al<sub>2</sub>][(OH)<sub>2</sub>|Al<sub>3</sub>Si<sub>5</sub>O<sub>22</sub>] (1984, IMA 1997 s.p. Rd Rn from sadanagaite, IMA 2002-051, 2004 Rn from potassic-magnesiosadanagaite, IMA 2012 s.p. Rd Rn from magnesiosadanagaite) 
+** Tremolite-actinolite root name: [[actinolite]] Ca<sub>2</sub>(Mg,Fe<sup>2+</sup>)<sub>5</sub>(Si<sub>8</sub>O<sub>22</sub>)(OH)<sub>2</sub> (1794, IMA 2012 s.p. Rd), [[ferro-actinolite]] [Ca<sub>2</sub>][(Fe<sup>2+</sup>,Mg)<sub>5</sub>][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (1946, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[tremolite]] [Ca<sub>2</sub>][Mg<sub>5</sub>][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (1789, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Tschermakite root name: [[tschermakite]] [Ca<sub>2</sub>][Mg<sub>3</sub>Fe<sup>3+</sup>Al][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (1945, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd) 
+* w(OH, F, Cl)-dominant amphibole: lithium subgroup
+** Clino-holmquistite root name: [[clino-ferro-ferri-holmquistite]] ☐Li<sub>2</sub>((Fe<sup>3+</sup>)<sub>2</sub>(Fe<sup>2+</sup>)<sub>3</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 1997 s.p., 2001-066, IMA 2012 s.p. Rd Rn from ferri-clinoferroholmquistite)
+** Holmquistite root name: [[ferro-holmquistite]] ☐(Li<sub>2</sub>(Fe<sup>2+</sup>)<sub>3</sub>Al<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2004-030, IMA 2012 s.p. Rd), [[holmquistite]] ☐(Li<sub>2</sub>Mg<sub>3</sub>Al<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1913, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Pedrizite root name: [[ferri-pedrizite]] NaLi<sub>2</sub>((Fe<sup>3+</sup>)<sub>2</sub>Mg<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2001-032, IMA 2003 s.p. discredited, IMA 2012 s.p. Rd revalidated), [[ferro-ferri-pedrizite]] NaLi<sub>2</sub>((Fe<sup>3+</sup>)<sub>2</sub>(Fe<sup>2+</sup>)<sub>3</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2003 s.p., IMA 2012 s.p. Rd Rn from sodic-ferro-ferripedrizite), [[ferro-fluoro-pedrizite]] NaLi<sub>2</sub>(Fe<sup>2+</sup>)<sub>2</sub>Al<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2008-070, IMA 2012 s.p. Rd Rn from fluoro-sodic-ferropedrizite), [[fluoro-pedrizite]] NaLi<sub>2</sub>(Mg<sub>2</sub>Al<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2004-002, IMA 2012 s.p. Rd Rn from fluoro-sodic-pedrizite)
+* w(OH, F, Cl)-dominant amphibole: Mg-Fe-Mn subgroup
+**Anthophyllite root name: [[anthophyllite]] ☐Mg<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1801, IMA 2012 s.p. Rd), [[ferro-anthophyllite]] ☐(Fe<sup>2+</sup>)<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1821, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[proto-anthophyllite]] (Mg,Fe)<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2001-065, IMA 2012 s.p. Rd), [[protoferro-anthophyllite]] (Fe<sup>2+</sup>,Mn<sup>2+</sup>)<sub>2</sub>(Fe<sup>2+</sup>,Mg)<sub>5</sub>(Si<sub>4</sub>O<sub>11</sub>)<sub>2</sub>(OH)<sub>2</sub> (IMA 1986-006, IMA 2012 s.p. Rd), [[protomangano-ferro-anthophyllite]] (Mn<sup>2</sup>+,Fe<sup>2</sup>+)<sub>2</sub>(Fe<sup>2+</sup>,Mg)<sub>5</sub>(Si<sub>4</sub>O<sub>11</sub>)<sub>2</sub>(OH)<sub>2</sub> (IMA 1986-007, IMA 2012 s.p. Rd)
+** Gedrite root name: [[ferro-gedrite]] ☐(Fe<sup>2+</sup>)<sub>5</sub>Al<sub>2</sub>Si<sub>6</sub>Al<sub>2</sub>O<sub>22</sub>(OH)<sub>2</sub> (1939, IMA 1978 s.p. Rn, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from ferrogedrite), [[gedrite]] ☐Mg<sub>5</sub>Al<sub>2</sub>Si<sub>6</sub>Al<sub>2</sub>O<sub>22</sub>(OH)<sub>2</sub> (1836, IMA 2012 s.p. Rd)
+** Minerals: [[cummingtonite]] ☐Mg<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1824, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[grunerite]] ☐(Fe<sup>2+</sup>)<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1853, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd) 
+* w(OH, F, Cl)-dominant amphibole: sodic subgroup
+** Arfvedsonite root name: [[arfvedsonite]] NaNa<sub>2</sub>((Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1823, IMA 2012 s.p. Rd), [[magnesio-arfvedsonite]] NaNa<sub>2</sub>(Mg<sub>4</sub>Fe<sup>2+</sup>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1957, IMA 2012 s.p. Rd), [[magnesio-fluoro-arfvedsonite]] NaNa<sub>2</sub>(Mg,Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>[Si<sub>8</sub>O<sub>22</sub>](F,OH)<sub>2</sub> (IMA 1998-056, IMA 2012 s.p. Rd Rn from fluoro-magnesio-arfvedsonite), [[potassicarfvedsonite|potassic-arfvedsonite]] KNa<sub>2</sub>(Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2003-043, IMA 2012 s.p. Rd), [[potassic-magnesio-fluoro-arfvedsonite]] KNa<sub>2</sub>(Mg<sub>4</sub>Fe<sup>3+</sup>)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 1985-023, 2006 Rn from potassium fluor-magnesio-arfvedsonite, 2010 Rd, IMA 2012 s.p. Rd Rn from fluoro-potassic-magnesio-arfvedsonite)
+** Eckermannite root name: [[eckermannite]] NaNa<sub>2</sub>(Mg<sub>4</sub>Al)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1942, IMA 2012 s.p. Rd), [[mangano-ferri-eckermannite]] NaNa<sub>2</sub>(Mn<sup>2+</sup>)<sub>4</sub>(Fe<sup>3+</sup>,Al)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1968-028, IMA 1997 s.p., IMA 2012 s.p. Rd Rn from kôzulite)
+** Glaucophane root name: [[ferro-glaucophane]] ☐Na<sub>2</sub>((Fe<sup>2+</sup>)<sub>3</sub>Al<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1957, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from ferroglaucophane), [[glaucophane]] ☐Na<sub>2</sub>(Mg<sub>3</sub>Al<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1963, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Leakeite root name: [[ferri-fluoro-leakeite]] NaNa<sub>2</sub>(Mg<sub>2</sub>Fe<sup>3+</sup><sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2009-085, IMA 2012 s.p. Rd Rn from fluoroleakeite), [[ferri-leakeite]] Na(NaLi)(Mg<sub>2</sub>(Fe<sup>3+</sup>)<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2001-069, IMA 2012 s.p. Rd Rn from ferriwhittakerite), [[ferro-ferri-fluoro-leakeite]] NaNa<sub>2</sub>((Fe<sup>2+</sup>)<sub>2</sub>(Fe<sup>3+</sup>)<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 1993-026, IMA 2012 s.p. Rd Rn from fluoro-ferroleakeite), [[fluoro-leakeite]] NaNa<sub>2</sub>(Mg<sub>2</sub>Al<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (IMA 2009-012, IMA 2012 s.p. Rd Rn from fluoro-aluminoleakeite), [[potassic-ferri-leakeite]] KNa<sub>2</sub>Mg<sub>2</sub>(Fe<sup>3+</sup>)<sub>2</sub>LiSi<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2001-049, IMA 2012 s.p. Rd Rn from potassicleakeite), [[potassic-leakeite]] KNa<sub>2</sub>(Mg<sub>2</sub>Al<sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (2002, IMA 2012 s.p. Rd), [[potassic-mangani-leakeite]] KNa<sub>2</sub>(Mg<sub>2</sub>Mn<sup>3+</sup><sub>2</sub>Li)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 1992-032, IMA 2012 s.p. Rd Rn from kornite)
+** Nybøite root name: [[ferro-ferri-nybøite]] NaNa<sub>2</sub>(Fe<sup>2+</sup>)<sub>3</sub>(Fe<sup>3+</sup>)<sub>2</sub>(Si<sub>7</sub>Al)O<sub>22</sub>(OH)<sub>2</sub> (IMA 1997 s.p., IMA 2012 s.p. Rd Rn from ferric-ferronyboite), [[fluoro-nybøite]] NaNa<sub>2</sub>(Al<sub>2</sub>Mg<sub>3</sub>)(Si<sub>7</sub>Al)O<sub>22</sub>(F,OH)<sub>2</sub> (IMA 2002-010, IMA 2012 s.p. Rd Rn from fluoronybøite), [[nybøite]] NaNa<sub>2</sub>(Mg<sub>3</sub>Al<sub>2</sub>)Si<sub>7</sub>AlO<sub>22</sub>(OH)<sub>2</sub> (1981, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Riebeckite root name: [[fluoro-riebeckite]] ☐Na<sub>2</sub>(Fe<sup>2+</sup><sub>3</sub>Fe<sup>3+</sup><sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>F<sub>2</sub> (1966, IMA 2012 s.p. Rd), [[magnesio-riebeckite]] ☐Na<sub>2</sub>[(Mg,Fe<sup>2+</sup>)<sub>3</sub>(Fe<sup>3+</sup>)<sub>2</sub>]Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1957, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd), [[riebeckite]] ☐Na<sub>2</sub>((Fe<sup>2+</sup>)<sub>3</sub>(Fe<sup>3+</sup>)<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (1888, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+* w(OH, F, Cl)-dominant amphibole: sodic-calcic subgroup
+** Barroisite root name: [[barroisite]] [CaNa][Mg<sub>3</sub>AlFe<sup>3+</sup>][(OH)<sub>2</sub>|AlSi<sub>7</sub>O<sub>22</sub>] (1922, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Katophorite root name: [[ferri-fluoro-katophorite]] Na(NaCa)(Mg<sub>4</sub>Fe<sup>3+</sup>)(Si<sub>7</sub>Al)O<sub>22</sub>F<sub>2</sub> (IMA 2012 s.p.), [[ferri-katophorite]] Na<sub>2</sub>Ca(Fe<sup>2+</sup>,Mg)<sub>4</sub>Fe<sup>3+</sup>(Si<sub>7</sub>Al)O<sub>22</sub>(OH)<sub>2</sub> (IMA 1978 s.p., IMA 2012 s.p. Rd Rn from ferrikatophorite), [[ferro-katophorite]] Na(NaCa)(Fe<sup>2+</sup><sub>4</sub>Al)(Si<sub>7</sub>Al)O<sub>22</sub>(OH)<sub>2</sub> (1894, IMA 2012 s.p. Rd Rn), [[katophorite]] Na(NaCa)(Mg<sub>4</sub>Al)(Si<sub>7</sub>Al)O<sub>22</sub>(OH)<sub>2</sub> (1894, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Richterite root name: [[ferro-richterite]] Na[CaNa][(Fe<sup>2+</sup>)<sub>5</sub>][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (1946, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from ferrorichterite), [[fluororichterite|fluoro-richterite]] Na(CaNa)Mg<sub>5</sub>[Si<sub>8</sub>O<sub>22</sub>]F<sub>2</sub> (IMA 1992-020, IMA 2012 s.p. Rd Rn from fluororichterite), [[potassic-fluoro-richterite]] K[CaNa][Mg<sub>5</sub>][(F,OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (IMA 1986-046, IMA 2004 s.p. Rn from potassium-fluorrichterite, IMA 2012 s.p. Rd Rn from fluoro-potassicrichterite), [[richterite]] Na[CaNa][Mg<sub>5</sub>][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (1865, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+** Taramite root name: [[ferro-taramite]] Na[CaNa][(Fe<sup>2+</sup>)<sub>3</sub>Al<sub>2</sub>][(OH)<sub>2</sub>|Al<sub>2</sub>Si<sub>6</sub>O<sub>22</sub>] (IMA 2006-023, IMA 2012 s.p. Rd Rn from aluminotaramite), [[fluoro-taramite]] Na<sub>2</sub>CaMg<sub>3</sub>Al<sub>2</sub>(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>F<sub>2</sub> (IMA 2006-025, IMA 2012 s.p. Rd Rn from fluoro-alumino-magnesiotaramite), [[potassic-ferro-ferri-taramite]] K(CaNa)(Fe<sup>2+</sup><sub>3</sub>Fe<sup>3+</sup><sub>2</sub>)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>(OH)<sub>2</sub>  (IMA 1964-003, IMA 1978 s.p. Rn from mboziite, IMA 1997 s.p. Rn from ferri-taramite, IMA 2012 s.p. Rd Rn from ferritaramite, Erratum 2013 Rd Rn from ferro-ferri-taramite), [[potassic-ferro-taramite]] K(CaNa)(Fe<sup>2+</sup><sub>3</sub>Al<sub>2</sub>)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>(OH)<sub>2</sub> (IMA 2007-015, IMA 2012 s.p. Rd Rn from potassic-aluminotaramite), [[taramite]] Na<sub>2</sub>CaMg<sub>3</sub>Al<sub>2</sub>(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>(OH)<sub>2</sub> (IMA 2006-024, IMA 2012 s.p. Rd Rn from alumino-magnesiotaramite)
+** Winchite root name: [[ferri-winchite]] (☐,Na)(Na,Ca)<sub>2</sub>(Mg,Fe<sup>2+</sup>)<sub>4</sub>Fe<sup>3+</sup>[Si<sub>8</sub>O<sub>22</sub>](OH)<sub>2</sub> (IMA 2004-034, IMA 2012 s.p. Rd Rn from ferriwinchite), [[ferro-winchite]] [CaNa][(Fe<sup>2+</sup>)<sub>4</sub>(Al,Fe<sup>3+</sup>)][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (IMA 1978 s.p., IMA 1997 s.p. Rd, IMA 2012 s.p. Rd Rn from ferrowinchite), [[winchite]] [CaNa][Mg<sub>4</sub>(Al,Fe<sup>3+</sup>)][(OH)<sub>2</sub>|Si<sub>8</sub>O<sub>22</sub>] (1906, IMA 1997 s.p. Rd, IMA 2012 s.p. Rd)
+* w(OH, F, Cl)-dominant amphibole: Na-Mg-Fe-Mn subgroup
+** Ghoseite root name: [[ferri-ghoseite]] Na(NaMn<sup>2+</sup>)(Mg<sub>4</sub>Fe<sup>3+</sup>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (IMA 2003-066, IMA 2012 s.p. Rd Rn from parvowinchite)
+* w(O)-dominant amphibole group
+** Kaersutite root name: [[ferri-kaersutite]] NaCa<sub>2</sub>(Mg<sub>3</sub>Fe<sup>3+</sup>Ti)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>22</sub>O<sub>2</sub> (IMA 2011-035, IMA 2012 s.p. Rd Rn from ferrikaersutite), [[kaersutite]] NaCa<sub>2</sub>(Mg<sub>4</sub>Ti)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>23</sub>(OH) (IMA 1997 s.p., IMA 2012 s.p. Rd)
+** Minerals: [[mangani-dellaventuraite]] NaNa<sub>2</sub>(Mg<sub>2</sub>,Mn<sup>3+</sup>,Li,Ti)Si<sub>8</sub>O<sub>22</sub>O<sub>2</sub> (IMA 2003-061, IMA 2012 s.p. Rd Rn from dellaventuraite), [[mangano-mangani-ungarettiite]] NaNa<sub>2</sub>((Mn<sup>2+</sup>)<sub>2</sub>(Mn<sup>3+</sup>)<sub>3</sub>)Si<sub>8</sub>O<sub>22</sub>O<sub>2</sub> (IMA 1994-004, IMA 2012 s.p. Rd Rn from ungarettiite)
+
+==== Subclass '9.E': phyllosilicates ====
+ {{maincat|Phyllosilicates}}
+* [[:Category:Clay minerals group]]
+* [[:Category:Medicinal clay]]
+* [[:Category:Mica group]]
+* [[:Category:Serpentine group]]/ Kaolinite-Serpentine group
+* [[:Category:Smectite group]]/ Montmorillonite group
+* Pyrophyllite-Talc group
+* [[Chlorite group]]: [[Clinochlore]], [[Nimite]], [[Pennantite]], [[Baileychlore]], [[Cookeite]], [[Donbassite]], [[Gonyerite]], [[Odinite]], [[Sudoite]], [[Orthochamosite]]
+
+==== Subclass '9.F': tectosilicates ====
+ {{maincat|Tectosilicates}}
+
+===== Tectosilicates without zeolitic H<sub>2</sub>O =====
+
+* [[:Category:Quartz varieties]]
+* [[:Category:Feldspar|Feldspar family]]
+* [[:Category:Feldspathoid|Feldspathoid family]]
+**Sodalite group
+**Helvine group
+** [[:Category:Cancrinite group]]
+
+===== Tectosilicates with zeolitic H<sub>2</sub>O =====
+* [[:Category:Zeolites|Category:Zeolite group]]
+* [[Alflarsenite]] NaCa<sub>2</sub>Be<sub>3</sub>Si<sub>4</sub>O<sub>13</sub>(OH)•2H<sub>2</sub>O
+* Zeolites with T<sub>5</sub>O<sub>10</sub> Units – fibrous zeolites
+** Natrolite subgroup
+*** [[Gonnardite]] (Na,Ca)<sub>2</sub>(Si,Al)<sub>5</sub>O<sub>10</sub>·3H<sub>2</sub>O, [[Mesolite]] Na<sub>2</sub>Ca<sub>2</sub>Si<sub>9</sub>Al<sub>6</sub>O<sub>30</sub>·8H<sub>2</sub>O, [[Natrolite]] Na<sub>2</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>·2H<sub>2</sub>O, [[Paranatrolite]] Na<sub>2</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>·3H<sub>2</sub>O, [[Scolecite]] CaAl<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>·3H<sub>2</sub>O
+**[[Tetranatrolite]]? Na<sub>2</sub>[Al<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>]•2H<sub>2</sub>O, [[Thomsonite]]-Sr (Sr,Ca)<sub>2</sub>Na[Al<sub>5</sub>Si<sub>5</sub>O<sub>20</sub>]•7H<sub>2</sub>O, Thomsonite-Ca NaCa<sub>2</sub>Al<sub>5</sub>Si<sub>5</sub>O<sub>20</sub>•6H<sub>2</sub>O, [[Kalborsite]] K6Al<sub>4</sub>Si<sub>6</sub>BO<sub>20</sub>(OH)<sub>4</sub>Cl, [[Edingtonite]] BaAl<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>•4H<sub>2</sub>O
+* Chains of single connected 4-membered rings
+** [[Ammonioleucite]] (NH<sub>4</sub>,K)AlSi<sub>2</sub>O<sub>6</sub>, [[Leucite]] KAlSi<sub>2</sub>O<sub>6</sub>, [[Analcime]] NaAlSi<sub>2</sub>O<sub>6</sub>•H<sub>2</sub>O, [[Hsianghualite]] Ca<sub>3</sub>Li<sub>2</sub>Be<sub>3</sub>(SiO<sub>4</sub>)<sub>3</sub>F<sub>2</sub>, [[Lithosite]] K<sub>6</sub>Al<sub>4</sub>Si<sub>8</sub>O<sub>25</sub>•H<sub>2</sub>O, [[Pollucite]] (Cs,Na)<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•H<sub>2</sub>O, [[Wairakite]] CaAl<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•2H<sub>2</sub>O, [[Laumontite]] CaAl<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•4H<sub>2</sub>O, [[Yugawaralite]] CaAl<sub>2</sub>Si<sub>6</sub>O<sub>16</sub>•4H<sub>2</sub>O, [[Roggianite]] Ca<sub>2</sub>[Be(OH)<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>13</sub>]•2.5H<sub>2</sub>O, [[Goosecreekite]] CaAl<sub>2</sub>Si<sub>6</sub>O<sub>16</sub>•5H<sub>2</sub>O, [[Montesommaite]] (K,Na)<sub>9</sub>Al<sub>9</sub>Si<sub>23</sub>O<sub>64</sub>•10H<sub>2</sub>O, [[Partheite]] Ca<sub>2</sub>Al<sub>4</sub>Si<sub>4</sub>O<sub>15</sub>(OH)<sub>2</sub>•4H<sub>2</sub>O
+* Chains of doubly connected 4-membered rings
+** [[Amicite]] K<sub>2</sub>Na<sub>2</sub>Al<sub>4</sub>Si<sub>4</sub>O<sub>16</sub>•5H<sub>2</sub>O, [[Garronite]] Na<sub>2</sub>Ca<sub>5</sub>Al<sub>12</sub>Si<sub>20</sub>O<sub>64</sub>•27H<sub>2</sub>O, [[Gobbinsite]] (Na<sub>2</sub>,Ca)<sub>2</sub>K<sub>2</sub>Al<sub>6</sub>Si<sub>10</sub>O<sub>32</sub>•12H<sub>2</sub>O, [[Gismondine]] Ca<sub>2</sub>Al<sub>4</sub>Si<sub>4</sub>O<sub>16</sub>•9H<sub>2</sub>O, [[Harmotome]] (Ba,Na,K)<sub>(1-2)</sub>(Si,Al)<sub>8</sub>O<sub>16</sub>•6H<sub>2</sub>O, [[Phillipsite]]-Na (Na,K,Ca)<sub>(1-2)</sub>(Si,Al)<sub>8</sub>O<sub>16</sub>•6H<sub>2</sub>O, Phillipsite-Ca (Ca,K,Na)<sub>(1-2)</sub>(Si,Al)<sub>8</sub>O<sub>16</sub>•6H<sub>2</sub>O, Phillipsite-K (K,Na,Ca)<sub>(1-2)</sub>(Si,Al)<sub>8</sub>O<sub>16</sub>•6H<sub>2</sub>O, [[Merlinoite]] (K,Ca,Na,Ba)<sub>7</sub>Si<sub>23</sub>Al<sub>9</sub>O<sub>64</sub>•23H<sub>2</sub>O, [[Mazzite]]-Mg K<sub>2</sub>CaMg<sub>2</sub>(Al,Si)<sub>36</sub>O<sub>72</sub>•28H<sub>2</sub>O, Mazzite-Na Na<sub>8</sub>Al<sub>8</sub>Si<sub>28</sub>O<sub>72</sub>•30H<sub>2</sub>O, [[Perlialite]] K<sub>8</sub>Tl<sub>4</sub>Al<sub>12</sub>Si<sub>24</sub>O<sub>72</sub>•20H<sub>2</sub>O, [[Boggsite]] NaCa<sub>2</sub>(Al<sub>5</sub>Si<sub>19</sub>O<sub>48</sub>)•17H<sub>2</sub>O, [[Paulingite]]-Ca (Ca,K,Na,Ba)<sub>5</sub>[Al<sub>10</sub>Si<sub>35</sub>O<sub>84</sub>]•34H<sub>2</sub>O, Paulingite-K (K<sub>2</sub>,Ca,Na<sub>2</sub>,Ba)<sub>5</sub>Al<sub>10</sub>Si<sub>35</sub>O<sub>90</sub>•45H<sub>2</sub>O, Paulingite-Na (Na<sub>2</sub>,K<sub>2</sub>,Ca,Ba)<sub>5</sub>Al<sub>10</sub>Si<sub>35</sub>O<sub>90</sub>•45H<sub>2</sub>O
+* Chains of 6-membered rings – tabular zeolites
+** [[Gmelinite]]-Ca (Ca,Na<sub>2</sub>)Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•6H<sub>2</sub>O, Gmelinite-K (K,Na,Ca)<sub>6</sub>(Al<sub>7</sub>Si<sub>17</sub>O<sub>48</sub>)•22H<sub>2</sub>O, Gmelinite-Na (Na<sub>2</sub>,Ca)Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•6H<sub>2</sub>O, [[Chabazite]]-K (K<sub>2</sub>,Ca,Na<sub>2</sub>,Mg)[Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>]•6H<sub>2</sub>O, Chabazite-Ca (Ca<sub>0.5</sub>,Na,K)<sub>4</sub>[Al<sub>4</sub>Si<sub>8</sub>O<sub>24</sub>]•12H<sub>2</sub>O, Chabazite-Na (Na<sub>2</sub>,K<sub>2</sub>,Ca,Mg)[Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>]•6H<sub>2</sub>O, Chabazite-Sr (Sr,Ca,K<sub>2</sub>,Na<sub>2</sub>)[Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>]•6H<sub>2</sub>O, [[Herschelite]]? (Na,Ca,K)AlSi<sub>2</sub>O<sub>6</sub>•3H<sub>2</sub>O, [[Willhendersonite]] KCaAl<sub>3</sub>Si<sub>3</sub>O<sub>12</sub>•5H<sub>2</sub>O, [[Levyne]]-Ca (Ca,Na<sub>2</sub>,K<sub>2</sub>)Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•6H<sub>2</sub>O, Levyne-Na (Na<sub>2</sub>,Ca,K<sub>2</sub>)Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>•6H<sub>2</sub>O, [[Bellbergite]] (K,Ba,Sr)<sub>2</sub>Sr<sub>2</sub>Ca<sub>2</sub>(Ca,Na)<sub>4</sub>Al<sub>18</sub>Si<sub>18</sub>O<sub>72</sub>•30H<sub>2</sub>O, [[Erionite]]-Ca (Ca,K<sub>2</sub>,Na<sub>2</sub>)<sub>2</sub>[Al<sub>4</sub>Si<sub>14</sub>O<sub>36</sub>]•15H<sub>2</sub>O, Erionite-K (K<sub>2</sub>,Ca,Na<sub>2</sub>)<sub>2</sub>[Al<sub>4</sub>Si<sub>14</sub>O<sub>36</sub>]•15H<sub>2</sub>O, Erionite-Na (Na<sub>2</sub>,K<sub>2</sub>,Ca)<sub>2</sub>[Al<sub>4</sub>Si<sub>14</sub>O<sub>36</sub>]•15H<sub>2</sub>O, [[Wenkite]] Ba<sub>4</sub>Ca<sub>6</sub>(Si,Al)<sub>20</sub>O<sub>39</sub>(OH)<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>•nH<sub>2</sub>O (?), [[Offretite]] (K<sub>2</sub>,Ca,Mg)<sub>2.5</sub>Al<sub>5</sub>Si<sub>13</sub>O<sub>36</sub>•15H<sub>2</sub>O, [[Faujasite]]-Ca (Ca,Na<sub>2</sub>,Mg)<sub>3.5</sub>[Al<sub>7</sub>Si<sub>17</sub>O<sub>48</sub>]•32H<sub>2</sub>O, Faujasite-Mg (Mg,Na<sub>2</sub>,Ca)<sub>3.5</sub>[Al<sub>7</sub>Si<sub>17</sub>O<sub>48</sub>]•32H<sub>2</sub>O, Faujasite-Na (Na<sub>2</sub>,Ca,Mg)<sub>3.5</sub>[Al<sub>7</sub>Si<sub>17</sub>O<sub>48</sub>]•32H<sub>2</sub>O, [[Maricopaite]] Pb<sub>7</sub>Ca<sub>2</sub>(Si,Al)<sub>48</sub>O<sub>100</sub>•32H<sub>2</sub>O, [[Mordenite]] (Ca,Na<sub>2</sub>,K<sub>2</sub>)Al<sub>2</sub>Si<sub>10</sub>O<sub>24</sub>•7H<sub>2</sub>O, [[Dachiardite]]-Ca (Ca,Na<sub>2</sub>,K<sub>2</sub>)<sub>5</sub>Al<sub>10</sub>Si<sub>38</sub>O<sub>96</sub>•25H<sub>2</sub>O, Dachiardite-Na (Na<sub>2</sub>,Ca,K<sub>2</sub>)<sub>4</sub>Al<sub>4</sub>Si<sub>20</sub>O<sub>48</sub>•13H<sub>2</sub>O, [[Epistilbite]] CaAl<sub>2</sub>Si<sub>6</sub>O<sub>16</sub>•5H<sub>2</sub>O, [[Ferrierite]]-K (K,Na)<sub>2</sub>Mg(Si,Al)<sub>18</sub>O<sub>36</sub>•9H<sub>2</sub>O, Ferrierite-Mg (Mg,Na,K)<sub>2</sub>Mg(Si,Al)<sub>18</sub>O<sub>36</sub>•9H<sub>2</sub>O, Ferrierite-Na (Na,K)<sub>2</sub>Mg(Si,Al)<sub>18</sub>O<sub>36</sub>•9H<sub>2</sub>O, [[Bikitaite]] Li<sub>2</sub>[Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>]•2H<sub>2</sub>O
+* Chains of T<sub>10</sub>O<sub>20</sub> tetrahedra
+** [[Clinoptilolite]]-Na (Na,K,Ca)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, Clinoptilolite-K (Na,K,Ca)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, Clinoptilolite-Ca (Ca,Na,K)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, [[Heulandite]]-Ba (Ba,Ca,K,Na,Sr)<sub>5</sub>Al<sub>9</sub>Si<sub>27</sub>O<sub>72</sub>•22H<sub>2</sub>O, Heulandite-Ca (Ca,Na)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, Heulandite-K (K,Na,Ca)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, Heulandite-Na (Na,Ca)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, Heulandite-Sr (Sr,Na,Ca)<sub>(2-3)</sub>Al<sub>3</sub>(Al,Si)<sub>2</sub>Si<sub>13</sub>O<sub>36</sub>•12H<sub>2</sub>O, [[Stilbite]]-Ca NaCa<sub>4</sub>[Al<sub>8</sub>Si<sub>28</sub>O<sub>72</sub>]•{{mvar|n}}H<sub>2</sub>O ({{tmath|\scriptstyle 28 \le n \le 32}}), Stilbite-Na Na<sub>3</sub>Ca<sub>3</sub>[Al<sub>8</sub>Si<sub>28</sub>O<sub>72</sub>]•{{mvar|n}}H<sub>2</sub>O ({{tmath|\scriptstyle28 \le n \le 32}}), [[Barrerite]] (Na,K,Ca)<sub>2</sub>Al<sub>2</sub>Si<sub>7</sub>O<sub>18</sub>•6H<sub>2</sub>O, [[Stellerite]] CaAl<sub>2</sub>Si<sub>7</sub>O<sub>18</sub>•7H<sub>2</sub>O, [[Brewsterite]]-Ba (Ba,Sr)Al<sub>2</sub>Si<sub>6</sub>O<sub>16</sub>•5H<sub>2</sub>O, Brewsterite-Sr (Sr,Ba)Al<sub>4</sub>Si<sub>12</sub>O<sub>32</sub>•10H<sub>2</sub>O
+* Other rare zeolites
+** [[Terranovaite]] (Na,Ca)<sub>8</sub>(Si<sub>68</sub>Al<sub>12</sub>)O<sub>160</sub>•29H<sub>2</sub>O, [[Gottardiite]] Na<sub>3</sub>Mg<sub>3</sub>Ca<sub>5</sub>Al<sub>19</sub>Si<sub>117</sub>O<sub>272</sub>•93H<sub>2</sub>O, [[Lovdarite]] K<sub>2</sub>Na<sub>6</sub>Be<sub>4</sub>Si<sub>14</sub>O<sub>36</sub>•9H<sub>2</sub>O, [[Gaultite]] Na<sub>4</sub>Zn<sub>2</sub>Si<sub>7</sub>O<sub>18</sub>•5H<sub>2</sub>O, [[Chiavennite]] CaMnBe<sub>2</sub>Si<sub>5</sub>O<sub>13</sub>(OH)<sub>2</sub>•2H<sub>2</sub>O, [[Tschernichite]] (Ca,Na)(Si<sub>6</sub>Al<sub>2</sub>)O<sub>16</sub>•(4-8)H<sub>2</sub>O, [[Mutinaite]] Na<sub>3</sub>Ca<sub>4</sub>Si<sub>85</sub>Al<sub>11</sub>O<sub>192</sub>•60H<sub>2</sub>O, [[Tschortnerite]] Ca<sub>4</sub>(Ca,Sr,K,Ba)<sub>3</sub>Cu<sub>3</sub>(OH)<sub>8</sub>[Si<sub>12</sub>Al<sub>12</sub>O<sub>48</sub>]•{{mvar|x}}H<sub>2</sub>O, {{tmath|\scriptstyle x \ge 20}}, [[Thornasite]] Na<sub>12</sub>Th<sub>3</sub>[Si<sub>8</sub>O<sub>19</sub>]<sub>4</sub>•18H<sub>2</sub>O, [[Direnzoite]] NaK<sub>6</sub>MgCa<sub>2</sub>(Al<sub>13</sub>Si<sub>47</sub>O<sub>120</sub>)•36H<sub>2</sub>O
+* Unclassified zeolites
+** [[Cowlesite]] CaAl<sub>2</sub>Si<sub>3</sub>O<sub>10</sub>•(5-6)H<sub>2</sub>O, [[Mountainite]] (Ca,Na<sub>2</sub>,K<sub>2</sub>)<sub>2</sub>Si<sub>4</sub>O<sub>10</sub>•3H<sub>2</sub>O
+
+==== Subclass: Germanates ====
+ {{maincat|Germanium minerals}}
+
+== See also ==
+{{Portal|Earth sciences}}
+* {{annotated link|Classification of non-silicate minerals}}
+* {{annotated link|Crystal system}}
+* {{annotated link|List of rock types}}
+
+== References ==
+{{Refbegin}}
+* {{Cite journal |title=The standardisation of mineral group hierarchies: application to recent nomenclature proposals |author1=Stuart J. Mills |author2=Frédéric Hatert |author3=Ernest H. Nickel |author4=Giovanni Ferraris |url=http://pubsites.uws.edu.au/ima-cnmnc/Mills%20et%20al%202009%20Groups%20EJM%20October.pdf |journal=Eur. J. Mineral. |year=2009 |pages=1073–1080 |doi=10.1127/0935-1221/2009/0021-1994 |volume=21 |issue=5 |bibcode=2009EJMin..21.1073M |access-date=2011-01-04 |archive-url=https://web.archive.org/web/20110217063745/http://pubsites.uws.edu.au/ima-cnmnc/Mills%20et%20al%202009%20Groups%20EJM%20October.pdf |archive-date=2011-02-17 |url-status=dead }}
+* {{Cite web |url=http://pubsites.uws.edu.au/ima-cnmnc/IMA2009-01%20UPDATE%20160309.pdf |title=IMA-CNMNC List of Mineral Names |publisher=IMA-CNMNC |author1=Ernest H. Nickel |author2=Monte C. Nichols |date=March 2009 |access-date=2011-01-04 |archive-url=https://web.archive.org/web/20130626060238/http://pubsites.uws.edu.au/ima-cnmnc/IMA2009-01 |archive-date=2013-06-26 |url-status=dead }}
+* {{Cite web |title=New Dana Classification |url=http://webmineral.com/danaclass.shtml |publisher=webmineral.com }}
+* {{Cite web |title=Nickel-Strunz (Version 10) Classification System |url=http://webmineral.com/strunz.shtml |publisher=webmineral.com }}
+* {{Cite web |title=Mineral groups |url=http://www.mindat.org/search.php?name=group |publisher=mindat.org }}
+{{Refend}}
+
+{{Strunz}}
+
+{{DEFAULTSORT:Classification Of Minerals - Silicates}}
+[[Category:Classification of minerals|*]]
+[[Category:Geology-related lists|Minerals]]
+[[Category:Mineralogy]]
