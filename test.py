@@ -23,7 +23,7 @@ import pandas as pd
 # with open('./minerals_extra.txt', 'w') as f:
 #     f.write('\n'.join(raw))
 
-df = pd.read_csv('./mineral_data.csv')
+df = pd.read_csv('./mineral_data2.csv')
 # print(df.isnull().sum().sum())
 # print(df.isin([' ','NULL',0]).sum())
 perc = 40.0
