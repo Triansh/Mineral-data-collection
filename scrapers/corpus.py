@@ -16,6 +16,7 @@ Result:
     1) Read data from input file given
     2) Data collection and scraping
     3) Output 2 files, one csv having data collected and other having a list of skipped data
+    4) Log files will be present in logs folder
 Note:
     If running from root of project, you can use this command
     python scrapers/corpus.py minerals.txt data/wikipedia logs/
