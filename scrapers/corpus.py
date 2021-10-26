@@ -10,8 +10,7 @@ import wptools
 """
 Args:
     sys.argv[1]: Input file path (Path to minerals.txt file)
-    sys.argv[2]: Path of output directory (Path of data/wikipedia)
-    sys.argv[3]: Path of log directory (Path of data/wikipedia)
+    sys.argv[2]: Path of log directory (Path of data/wikipedia)
 Result:
     1) Read data from input file given
     2) Data collection and scraping
@@ -63,9 +62,12 @@ class Scraper(object):
         self.logger.info('All processing done!!🥳🥳')
 
     def search(self, topic):
-        page = wikipedia.search(topic)[0]
-        page_data = wptools.page(page)
-        page_data.get_parse()
+        page = wikipedia.search(topic)
+        if len(page) <= 0:
+            print('No results')
+            return
+        page = page[0]
+        page_data = wptools.page(page).get_parse()
         if page_data.data['infobox'] is not None:
             infobox = {k.lower(): v for k, v in page_data.data['infobox'].items()}
             mineral_df = pd.DataFrame.from_records([infobox])
@@ -81,7 +83,6 @@ class Scraper(object):
 
 if __name__ == "__main__":
     input_file_path = sys.argv[1]
-    output_directory = sys.argv[2]
-    log_directory = sys.argv[3]
-    scraper = Scraper(input_file_path, output_directory, log_directory)
+    log_directory = sys.argv[2]
+    scraper = Scraper(input_file_path, './data/wikipedia', log_directory)
     scraper.get_data()

@@ -13,6 +13,12 @@ Note:
 """
 
 name_reg = re.compile(r"[^(\w| |\[|\]|\(|\)|-]+")
+sys_cat_regex = re.compile(r"[\w\s,-]+")
+
+rogue_words = {'hlist', 'flatlist', 'plainlist', 's', 'br', '',
+               'overline', 'list'}
+
+
 # remove_html = re.compile(r"<.*?/>|<[^>]>.*?</[^>]>")
 # bracket_cleaner = re.compile(r"\[|\]")
 #
@@ -22,6 +28,14 @@ name_reg = re.compile(r"[^(\w| |\[|\]|\(|\)|-]+")
 #     text = ''.join(bracket_cleaner.split(text))
 #     text = ' '.join(text.split())
 #     return text
+
+def clean_sys_cat(pat: str):
+    if pd.isnull(pat):
+        return pat
+    # print(pat)
+    pat = pat.replace('|', ',')
+    content = ''.join([' ' if x.strip() in rogue_words else x for x in sys_cat_regex.findall(pat)])
+    return content
 
 
 synonyms = [('color', 'colour'), ('luster', 'lustre')]
@@ -56,46 +70,56 @@ if __name__ == "__main__":
     df.dropna(axis=1, how='any', thresh=min_count, inplace=True)
 
     # Accept the row if it has data in >= row_remove_perc % of all columns
-    row_remove_perc = 60.0
-    min_count = int((row_remove_perc / 100) * df.shape[1] + 1)
-    df.dropna(axis=0, how='any', thresh=min_count, inplace=True)
+    #     row_remove_perc = 60.0
+    #     min_count = int((row_remove_perc / 100) * df.shape[1] + 1)
+    #     df.dropna(axis=0, how='any', thresh=min_count, inplace=True)
     df.reset_index(drop=True, inplace=True)
 
     print(df.info())
 
     # Attribute wise cleanup here
     df['name'] = df['name'].apply(lambda x: ''.join(name_reg.split(x)))
+    df['system'] = df['system'].apply(lambda x: clean_sys_cat(x))
+    df['category'] = df['category'].apply(lambda x: clean_sys_cat(x))
+    #     df['category'] = df['category'].apply(lambda x: clean_sys_cat(x))
+
+    df.to_csv('./data/wikipedia/mineral-clean-1.csv', index=False, sep='\t')
 
     # Playing around with the data here! 😅
-    with open(os.path.join(os.getcwd(), sys.argv[2]), 'r') as f:
-        minerals = set([x.rstrip() for x in f])
-    # df2 = df['name']
-    # print(df2)
-    # processed = set(df2.tolist())
-    # # clp  = processed.
-    # x = minerals.difference(processed)
-    # y = processed.difference(minerals)
-    # z = x.union(y)
-    # print('\n\n', len(x))
-    # print('\n'.join(sorted(z)))
+#     with open(os.path.join(os.getcwd(), sys.argv[2]), 'r') as f:
+#         minerals = set([x.rstrip() for x in f])
 
-    # df.to_csv(path_or_buf=os.path.join(os.getcwd(), sys.argv[3]))
+#     for key in df.columns:
+#         print(key, ": ")
+#         print(df[key].iloc[:10])
+#         print()
+# df2 = df['name']
+# print(df2)
+# processed = set(df2.tolist())
+# # clp  = processed.
+# x = minerals.difference(processed)
+# y = processed.difference(minerals)
+# z = x.union(y)
+# print('\n\n', len(x))
+# print('\n'.join(sorted(z)))
 
-    # print(df.isnull().sum().sum())
-    # print(df.isin([' ','NULL',0]).sum())
+# df.to_csv(path_or_buf=os.path.join(os.getcwd(), sys.argv[3]))
 
-    # for col in df.columns:
-    #     if (df[col]!='').sum() > 300:
-    #         print(col)
-    # df = df.loc[:, df.isin([' ', '','NULL',0]).sum() > 0]
+# print(df.isnull().sum().sum())
+# print(df.isin([' ','NULL',0]).sum())
 
-    # x = df.index[df['color'].notnull()].tolist()
-    # y = df.index[df['colour'].notnull()].tolist()
-    # # print(x, y)
-    # print((set(x).intersection(set(y))))
-    # print(df[['name', 'color', 'colour']].iloc[734])
+# for col in df.columns:
+#     if (df[col]!='').sum() > 300:
+#         print(col)
+# df = df.loc[:, df.isin([' ', '','NULL',0]).sum() > 0]
 
-    # print(df.info(max_cols=200))
-    # df['color'] = df['color'].combine_first(df['colour'])
-    # df = df.drop(columns=['colour'])
-    # print(df.info(max_cols=200))
+# x = df.index[df['color'].notnull()].tolist()
+# y = df.index[df['colour'].notnull()].tolist()
+# # print(x, y)
+# print((set(x).intersection(set(y))))
+# print(df[['name', 'color', 'colour']].iloc[734])
+
+# print(df.info(max_cols=200))
+# df['color'] = df['color'].combine_first(df['colour'])
+# df = df.drop(columns=['colour'])
+# print(df.info(max_cols=200))
