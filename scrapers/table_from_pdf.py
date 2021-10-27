@@ -16,10 +16,10 @@ for df in dfs[:-1]:
     main_df = main_df.append(df)
 
 for c in main_df.columns:
-    main_df[c] = main_df[c].apply(lambda x: x.replace('\n', ' ') if pd.notnull(x) else x)
+    main_df[c] = main_df[c].apply(lambda x: x.replace('\r', ' ') if pd.notnull(x) else x)
 
 print(main_df.info())
 main_df.to_csv('./data/ima-list.csv')
 
 # df = pd.read_csv('./data/ima-list.csv')
-# df.info()
+# print(df.info())
