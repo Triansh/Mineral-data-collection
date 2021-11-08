@@ -1,7 +1,10 @@
+import json
 import os
+import re
 import sys
 from datetime import datetime
 import logging
+from pprint import pprint
 
 import pandas as pd
 import wikipedia
@@ -39,24 +42,26 @@ class Scraper(object):
 
         input_path = os.path.join(os.getcwd(), in_path)
         date_time = datetime.now().strftime("%d-%m_%H:%M:%S")
-        self.save_csv_path = os.path.join(os.getcwd(), out_dir, f'minerals-{date_time}.csv')
+        self.save_json_path = os.path.join(os.getcwd(), out_dir, f'minerals-{date_time}.json')
         self.skip_path = os.path.join(os.getcwd(), out_dir, f'minerals-skipped-{date_time}.txt')
         log_file_path = os.path.join(os.getcwd(), log_dir, f'run-{date_time}.log')
 
         self.logger = get_logger(log_file_path)
 
         with open(input_path, 'r') as f:
-            self.minerals = [x.rstrip() for x in f]
+            self.minerals = [x.rstrip() for x in f][1761:]
 
         self.df = pd.DataFrame()
         self.skipped_minerals = []
+        self.all_min_dict = {}
+        self.min_dict = {}
 
     def get_data(self):
         for idx, m in enumerate(self.minerals):
-            self.search(m)
-            if (idx + 1) % 100 == 0:
-                self.load_data_in_files()
-                self.logger.info(f"Total {idx + 1} (1-based) minerals processed and written.")
+            self.min_dict = {}
+            self.search(m + ' mineral')
+            self.load_data_in_files()
+            self.logger.info(f"{idx + 1} minerals processed and written.")
 
         self.load_data_in_files()
         self.logger.info('All processing done!!🥳🥳')
@@ -66,23 +71,34 @@ class Scraper(object):
         if len(page) <= 0:
             print('No results')
             return
-        page = page[0]
-        page_data = wptools.page(page).get_parse()
-        if page_data.data['infobox'] is not None:
-            infobox = {k.lower(): v for k, v in page_data.data['infobox'].items()}
-            mineral_df = pd.DataFrame.from_records([infobox])
-            self.df = self.df.append(mineral_df)
-        else:
+        page = wptools.page(page[0])
+        page_data = page.get().data
+        pprint(page_data)
+        if 'infobox' in page_data and page_data['infobox'] is not None:
+            infobox = {k.lower(): v for k, v in page_data['infobox'].items()}
+            self.min_dict.update(infobox)
+        if 'description' in page_data:
+            self.min_dict['description'] = page_data['description']
+        if 'wikidata' in page_data and page_data['wikidata'] is not None:
+            wikidata = {k.lower(): v for k, v in page_data['wikidata'].items()}
+            self.min_dict.update(wikidata)
+
+        if len(self.min_dict) == 0:
             self.skipped_minerals.append(topic)
+        elif 'label' in page_data:
+            self.all_min_dict[page_data['label']] = self.min_dict
+        else:
+            self.all_min_dict[page_data['title']] = self.min_dict
 
     def load_data_in_files(self):
-        self.df.to_csv(path_or_buf=self.save_csv_path)
+        with open(self.save_json_path, 'w') as f:
+            json.dump(self.all_min_dict, f)
         with open(self.skip_path, 'w') as f:
             f.write('\n'.join(self.skipped_minerals))
 
 
 if __name__ == "__main__":
-    input_file_path = sys.argv[1]
-    log_directory = sys.argv[2]
-    scraper = Scraper(input_file_path, './data/wikipedia', log_directory)
+    # input_file_path = sys.argv[1]
+    # log_directory = sys.argv[2]
+    scraper = Scraper('./mineral_list.txt', './data/wikipedia', './logs')
     scraper.get_data()
