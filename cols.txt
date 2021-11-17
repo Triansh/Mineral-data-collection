@@ -1,0 +1,133 @@
+0    2v                                2035 non-null   object 
+ 1    anisotropism                      611 non-null    object 
+ 2    approval history                  322 non-null    object 
+ 3    approval year                     2765 non-null   float64
+ 4    axial ratios                      3999 non-null   object 
+ 5    bireflectance                     256 non-null    object 
+ 6    birefringence                     634 non-null    object 
+ 7    cell dimensions *                   4409 non-null   object 
+ 8    cell parameters *                   5355 non-null   object 
+ 9    chemical formula                  4660 non-null   object 
+ 10   class (h-m)                       4232 non-null   object 
+ 11   cleavage_x                        3315 non-null   object 
+ 12   cleavage_y                        3556 non-null   object 
+ 13   co-type localities (symbol)                381 non-null    object 
+ 14   color                             4526 non-null   object 
+ 15   colour                            5200 non-null   object 
+ 16   colour in reflected light         653 non-null    object 
+ 17   comment     +                      2389 non-null   object 
+ 18   comments    +                      2423 non-null   object 
+ 19   common impurities                 1593 non-null   object 
+ 20   composition                       4660 non-null   object 
+ 21   country                           5738 non-null   object 
+ 22   crystal atlas   +                  280 non-null    object 
+ 23   crystal structure +                3013 non-null   object 
+ 24   crystal system_x                  5896 non-null   object 
+ 25   crystal system_y *                 4624 non-null   object 
+ 26   dana 7th ed.                      485 non-null    object 
+ 27   dana 8th ed.                      3755 non-null   object 
+ 28   dana class                        4660 non-null   object 
+ 29   density_x   (mesaured+calculated)                      4166 non-null   object 
+ 30   density_y   (merge in measure)                      3813 non-null   object 
+ 31   diaphaneity                       3978 non-null   object 
+ 32   dichroism (e)                     194 non-null    object 
+ 33   dichroism (w)                     195 non-null    object 
+ 34   dimorph of                        293 non-null    object 
+ 35   dispersion                        2343 non-null   object 
+ 36   download          +                1352 non-null   object 
+ 37   electron density (density + specific gravity) gm/cc                4540 non-null   object 
+ 38   elements listed                   6393 non-null   object 
+ 39   empirical formula                 4657 non-null   object 
+ 40   environment                       4121 non-null   object 
+ 41   external links    +                5748 non-null   object 
+ 42   fermion index (fermion + boson)                    4660 non-null   object 
+ 43   first published                   2582 non-null   float64
+ 44   first recorded locality           103 non-null    object 
+ 45   first ref                         5737 non-null   object 
+ 46   forms  +                           631 non-null    object 
+ 47   formula_x                         6436 non-null   object 
+ 48   formula_y                         5739 non-null   object 
+ 49   fracture_x                        2165 non-null   object 
+ 50   fracture_y                        2298 non-null   object 
+ 51   geological setting                1033 non-null   object 
+ 52   gladstone-dale  *                  3186 non-null   object 
+ 53   habit                             3228 non-null   object 
+ 54   hardness data                     360 non-null    object 
+ 55   hardness_x                        4696 non-null   object 
+ 56   hardness_y                        4010 non-null   object 
+ 57   health risks                      6827 non-null   object 
+ 58   hey's cim ref.                    3348 non-null   object 
+ 59   idealised formula +                132 non-null    object 
+ 60   ima formula                       2906 non-null   object 
+ 61   ima status                        4660 non-null   object 
+ 62   ima status notes  +                216 non-null    object 
+ 63   ima status_x                      5913 non-null   object 
+ 64   ima status_y                      5739 non-null   object 
+ 65   ima year                          5739 non-null   object 
+ 66   images       +                     4660 non-null   object 
+ 67   in uv light                       1414 non-null   object 
+ 68   industrial uses  +                 154 non-null    object 
+ 69   internal reflections              309 non-null    object 
+ 70   ir spectrum                       119 non-null    object 
+ 71   isostructural with                494 non-null    object 
+ 72   locality                          4660 non-null   object 
+ 73   luminescence                      1068 non-null   object 
+ 74   luster                            4137 non-null   object 
+ 75   lustre                            4705 non-null   object 
+ 76   magnetism                         363 non-null    object 
+ 77   member of                         2889 non-null   object 
+ 78   mindat.org url                    9112 non-null   object 
+ 79   mineral dealers                   6812 non-null   object 
+ 80   mineral_name                      9637 non-null   object 
+ 81   morphology                        2629 non-null   object 
+ 82   name      *                        5041 non-null   object 
+ 83   name origin     *                  4657 non-null   object 
+ 84   name pronunciation  +              3573 non-null   object 
+ 85   nickel-strunz 10th (pending) ed.  5373 non-null   object 
+ 86   notes  +                           1137 non-null   object 
+ 87   optical data                      3823 non-null   object 
+ 88   optical extinction +                297 non-null    object 
+ 89   oxide wt%      +                   146 non-null    object 
+ 90   parting     +                      341 non-null    object 
+ 91   photoelectric                     4659 non-null   object 
+ 92   pleochroism     (yes/no)                  1915 non-null   object 
+ 93   pleochroism (x)                   665 non-null    object 
+ 94   pleochroism (y)                   623 non-null    object 
+ 95   pleochroism (z)                   572 non-null    object 
+ 96   polymorph of  +                    124 non-null    object 
+ 97   powder diffraction data  *        3537 non-null   object 
+ 98   pronounciation  +                  774 non-null    object 
+ 99   radioactivity                     4659 non-null   object 
+ 100  ratio                             4856 non-null   object 
+ 101  reference   +                      2368 non-null   object 
+ 102  reference list  +                  7021 non-null   object 
+ 103  references    +                    4429 non-null   object 
+ 104  reflectivity  *                    470 non-null    object 
+ 105  ri values                         3590 non-null   object 
+ 106  rl anisotrophism                  591 non-null    object 
+ 107  rl bireflectance                  166 non-null    object 
+ 108  rl color                          681 non-null    object 
+ 109  rl pleochroism                    353 non-null    object 
+ 110  sample references  +               173 non-null    object 
+ 111  search engines +                   9112 non-null   object 
+ 112  second ref                        3530 non-null   object 
+ 113  see also    +                      4660 non-null   object 
+ 114  setting                           1626 non-null   object 
+ 115  space group                       3729 non-null   object 
+ 116  specific gravity                  3635 non-null   object 
+ 117  streak_x                          3346 non-null   object 
+ 118  streak_y                          3730 non-null   object 
+ 119  strunz 8th ed.                    4178 non-null   object 
+ 120  strunz 9th ed.                    197 non-null    object 
+ 121  strunz class                      4660 non-null   object 
+ 122  surface relief                    3590 non-null   object 
+ 123  synonym                           3512 non-null   object 
+ 124  tenacity (same as habit)                          2540 non-null   object 
+ 125  thermal behaviour    +             150 non-null    object 
+ 126  transparency                      4058 non-null   object 
+ 127  twinning                          1005 non-null   object 
+ 128  type                              4097 non-null   object 
+ 129  type locality                     5229 non-null   object 
+ 130  unit cell v                       5351 non-null   object 
+ 131  x ray diffraction                 4392 non-null   object 
+ 132  z                                 3367 non-null   float64
