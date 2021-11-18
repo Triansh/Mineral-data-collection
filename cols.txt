@@ -131,3 +131,14 @@
  130  unit cell v                       5351 non-null   object 
  131  x ray diffraction                 4392 non-null   object 
  132  z                                 3367 non-null   float64
+ 
+ 
+ 
+ 
+ EXTRA-------------------------------------------
+ 41   epitaxial minerals                    85 non-null     object 
+ 77   magnetism_x                           70 non-null     object 
+ 78   magnetism_y                           363 non-null    object (replaced magnetism)
+ 118  special storage/display requirements  77 non-null     object 
+
+
