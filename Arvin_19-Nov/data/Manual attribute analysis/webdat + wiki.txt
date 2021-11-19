@@ -1,0 +1,165 @@
+Wiki
+       'type locality (geology) (p2695)', 'gravity', 'density',   'encyclopædia britannica online id (p1417)',
+       'mindat mineral id (p6263)', 'ima number, broad sense (p484)',  'nickel-strunz '10th ed', review of (9th ed/ 2009 update) (p713)',
+       'unit cell', 'system', 'named after (p138)', 'art & architecture thesaurus id (p1014)', 'freebase id (p646)', 
+	   'mohs' hardness (p1088)', 'other', 'wolfram language entity code (p4839)', 'mohs', 'space group (p690)', 
+	   'store norske leksikon id (p4342)', 'refractive', 'habit', 'class', 'symmetry', 'pleochroism', 
+	   'gran enciclopèdia catalana id (p1296)', 'crystal system (p556)', 'colour', 'solid solution series with (p2155)',
+       'name', 'babelnet id (p2581)', 'ima status and/or rank (p579)', 'kivid.info id (p7348)', 'encyclopædia universalis id (p3219)', 
+	   'dana', 'google knowledge graph id (p2671)', 'cleavage', 'dana 8th edition (p714)', 'great russian encyclopedia online id (p2924)', 
+	   'diaphaneity', 'caption', 'luster', 'streak', 'kbpedia id (p8408)', 'tenacity', 'dispersion', 'fluorescence', '2v', 
+	   'described by source (p1343)', 'molweight', 'nickel-strunz 9th edition (updated 2009) (p712)', 'solubility', 'subclass of (p279)', 
+	   'streak color (p534)', 'twinning', 'strunz', 'category', 'fracture', 'strunz 8th edition (series id, updated) (p711)',
+       'elhuyar zth id (p4746)', 'commons category (p373)', 'description', 'birefringence', 'opticalprop', 'microsoft academic id (p6366)'
+------------------------------------------------------------------------------------------	   
+dropped Column:
+       'encyclopædia britannica online id (p1417)',  'mindat mineral id (p6263)', 'encyclopædia universalis id (p3219)', 
+	   'microsoft academic id (p6366)', 'great russian encyclopedia online id (p2924)', 'gran enciclopèdia catalana id (p1296)'
+       'google knowledge graph id (p2671)', 'kbpedia id (p8408)', 'art & architecture thesaurus id (p1014)'
+ 
+       'name', - redundant data
+	   'solid solution series with (p2155)',  --  Only 41 rows data out of 7.4K
+	   'babelnet id (p2581)',                     only 45 rows data
+	   caption - Caption from infobox image, and spcific to image
+	   elhuyar zth id (p4746) - like other id and only 64 rows
+-------------------------------------------------------------------------------------------
+
+
+
+
+Merged attributes:
+attr_dic['Description'][1]=             ['wiki',   'description']
+attr_dic['Synonym'][1]=                 ['webdat', 'Synonym'@webdat']
+attr_dic['Name Origin'][1]=             ['webdat', 'Name Origin']
+attr_dic['Name Origin'][2]=             ['wiki',   'named after (p138)']
+attr_dic['Formula'][1]=                 ['webdat', 'Formula']
+attr_dic['IMA Status'][1]=              ['webdat', 'IMA Status']
+attr_dic['IMA Status'][2]=              ['wiki',   'ima status and/or rank (p579)']
+attr_dic['Approval History'][1]=        ['webdat', 'Approval History']
+attr_dic['IMA Number Broad Sense'][1]=  ['wiki',   'ima number, broad sense (p484)']
+attr_dic['Color'][1]=                   ['webdat', 'Color']
+attr_dic['Color'][2]=                   ['wiki',   'colour']
+attr_dic['Streak'][1]=                  ['webdat', 'Streak']
+attr_dic['Streak'][2]=                  ['wiki',   'streak']
+attr_dic['Streak'][3]=                  ['wiki',   'streak color (p534)']
+attr_dic['Luster'][1]=                  ['webdat', 'Luster']
+attr_dic['Luster'][2]=                  ['wiki',   'luster']
+attr_dic['Fluorescence'][1]=            ['wiki',   'fluorescence']
+attr_dic['Transparency'][1]=            ['webdat', 'Transparency']
+attr_dic['Transparency'][2]=            ['wiki',   'diaphaneity']
+attr_dic['Pleochroism Scale'][1]=       ['webdat', 'Pleochroism Scale']
+attr_dic['Pleochroism'][1]=             ['webdat', 'Pleochroism']
+attr_dic['Pleochroism'][2]=             ['wiki',   'pleochroism']
+attr_dic['Pleochroism (x)'][1]=         ['webdat', 'Pleochroism (x)']
+attr_dic['Pleochroism (y)'][1]=         ['webdat', 'Pleochroism (y)']
+attr_dic['Pleochroism (z)'][1]=         ['webdat', 'Pleochroism (z)']
+attr_dic['RL Color'][1]=                ['webdat', 'RL Color']
+attr_dic['In UV light'][1]=             ['webdat', 'In UV light']
+attr_dic['RL Bireflectance'][1]=        ['webdat', 'RL Bireflectance']
+attr_dic['Anisotrophism'][1]=           ['webdat', 'Anisotrophism']
+attr_dic['Dichroism (e)'][1]=           ['webdat', 'Dichroism (e)']
+attr_dic['Dichroism (w)'][1]=           ['webdat', 'Dichroism (w)']
+attr_dic['Reflectivity'][1]=            ['webdat', 'Reflectivity']
+attr_dic['Density'][1]=                 ['webdat', 'Density']
+attr_dic['Density'][2]=                 ['wiki',   'density']
+attr_dic['Molecular Weight'][1]=        ['webdat', 'Molecular Weight']
+attr_dic['Molar Mass'][1]=              ['wiki',   'molweight']
+attr_dic['Electron Density'][1]=        ['webdat', 'Electron Density']
+attr_dic['Hardness'][1]= 		        ['webdat', 'Hardness']
+attr_dic['Hardness'][2]= 		        ["wiki", "mohs' hardness (p1088)"]
+attr_dic['Mohs'][1]=                    ['wiki',   'mohs']
+attr_dic['Crystal System'][1]=          ['webdat', 'Crystal System']
+attr_dic['Crystal System'][2]=          ['wiki',   'crystal system (p556)']
+attr_dic['Crystal System'][3]=          ['wiki',   'system']
+attr_dic['Gravity'][1]=                 ['webdat', 'Specific Gravity']
+attr_dic['Gravity'][2]=                 ['wiki',   'gravity']
+attr_dic['Fracture'][1]=                ['webdat', 'Fracture']
+attr_dic['Fracture'][2]=                ['wiki',   'fracture']
+attr_dic['Solubility'][1]=              ['wiki',   'solubility']
+attr_dic['Symmetry'][1]=                ['wiki',   'symmetry']
+attr_dic['Dana Class'][1]=              ['webdat', 'Dana Class']
+attr_dic['Dana Class'][1]=              ['wiki', 'dana']
+attr_dic['Dana 8th ed.'][1]=            ['webdat', 'Dana 8th ed.']
+attr_dic['Dana 8th ed.'][1]=            ['wiki', 'dana 8th edition (p714)']
+attr_dic['Dana 7th ed.'][1]=            ['webdat', 'Dana 7th ed.']
+attr_dic['Strunz'][1]=                  ['wiki',   'strunz']
+attr_dic['Strunz Class'][1]=            ['webdat', 'Strunz Class']
+attr_dic['Strunz 10th ed.'][1]=         ['webdat', 'Strunz 10th ed.']
+attr_dic['Strunz 10th ed.'][2]=         ["wiki",   "nickel-strunz '10th ed', review of (9th ed/ 2009 update) (p713)"]
+attr_dic['Strunz 9th ed.'][1]=          ["wiki",   "nickel-strunz 9th edition (updated 2009) (p712)"]
+attr_dic['Strunz 8th ed.'][1]=          ['webdat', 'Strunz 8th ed.']
+attr_dic['Strunz 8th ed.'][2]=          ['wiki',   'strunz 8th edition (series id, updated) (p711)']
+attr_dic['Cell Dimensions'][1]=         ['webdat', 'Cell Dimensions']
+attr_dic['Habit'][1]=                   ['webdat', 'Habit']
+attr_dic['Habit'][2]=                   ['wiki',   'habit']
+attr_dic['Axial Ratios'][1]=            ['webdat', 'Axial Ratios']
+attr_dic['Radioactivity'][1]=           ['webdat', 'Radioactivity']
+attr_dic['Photoelectric'][1]=           ['webdat', 'Photoelectric']
+attr_dic['Environment'][1]=             ['webdat', 'Environment']
+attr_dic['Fermion Index'][1]=           ['webdat', 'Fermion Index']
+attr_dic['Magnetism'][1]=               ['webdat', 'Magnetism']
+attr_dic['Gladstone-Dale'][1]=          ['webdat', 'Gladstone-Dale']
+attr_dic['X Ray Diffraction'][1]=       ['webdat', 'X Ray Diffraction']
+attr_dic['Luminescence'][1]=            ['webdat', 'Luminescence']
+attr_dic['Optical Data'][1]=            ['webdat', 'Optical Data']
+attr_dic['Optical Data'][2]=            ['wiki',   'opticalprop']
+attr_dic['Birefringence'][1]=           ['webdat', 'Birefringence']
+attr_dic['Birefringence'][2]=           ['wiki',   'birefringence']
+attr_dic['Tenacity'][1]=                ['webdat', 'Tenacity']
+attr_dic['Tenacity'][2]=                ['wiki',   'tenacity']
+attr_dic['Surface Relief'][1]=          ['webdat', 'Surface Relief']
+attr_dic['Morphology'][1]=              ['webdat', 'Morphology']
+attr_dic['Elements listed'][1]=         ['webdat', 'Elements listed']
+attr_dic['Common Impurities'][1]=       ['webdat', 'Common Impurities']
+attr_dic['Geological Setting'][1]=      ['webdat', 'Geological Setting']
+attr_dic['Member of'][1]=               ['webdat', 'Member of']
+attr_dic['Subclass of'][1]=             ['wiki', 'subclass of (p279)']
+attr_dic['Category'][1]=                ['wiki', 'category']
+attr_dic['Common Category'][1]=         ['wiki', 'commons category (p373)']
+attr_dic['Isostructural with'][1]=      ['webdat', 'Isostructural with']
+attr_dic["Hey's CIM Ref."][1]=          ['webdat', "Hey's CIM Ref."]
+attr_dic['Type'][1]=                    ['webdat', 'Type']
+attr_dic['Powder Diffraction Data'][1]= ['webdat', 'Powder Diffraction Data']
+attr_dic['Unit Cell V'][1]=             ['webdat', 'Unit Cell V']
+attr_dic['Unit Cell V'][2]=             ['wiki',   'unit cell']
+attr_dic['Space Group'][1]=             ['webdat', 'Space Group']
+attr_dic['Space Group'][2]=             ['wiki', 'space group (p690)']
+attr_dic['Dispersion'][1]=              ['webdat', 'Dispersion']
+attr_dic['Dispersion'][2]=              ['wiki',   'dispersion']
+attr_dic['RI values'][1]=               ['webdat', 'RI values']
+attr_dic['RI values'][2]=               ['wiki',   'refractive']
+attr_dic['Cleavage'][1]=                ['webdat', 'Cleavage']
+attr_dic['Cleavage'][2]=                ['wiki',   'cleavage']
+attr_dic['Ratio'][1]=                   ['webdat', 'Ratio']
+attr_dic['Type Locality'][1]=           ['webdat', 'Type Locality']
+attr_dic['Type Locality'][2]=           ['wiki',   'type locality (geology) (p2695)']
+attr_dic["Co-Type Localities"][1]=      ['webdat', "Co-Type Localities"]
+attr_dic['Class (H-M)'][1]=             ['webdat', 'Class (H-M)']
+attr_dic['Class (H-M)'][2]=             ['wiki',   'class']
+attr_dic['Health Risks'][1]=            ['webdat', 'Health Risks']
+attr_dic['2V'][1]=                      ['webdat', '2V']
+attr_dic['2V'][2]=                      ['wiki',   '2v']
+attr_dic['Twinning'][1]=                ['webdat', 'Twinning']
+attr_dic['Twinning'][2]=                ['wiki',   'twinning']
+attr_dic['Parting'][1]=                 ['webdat', 'Parting']
+attr_dic['Freebase Id'][1]=             ['wiki',   'freebase id (p646)']
+attr_dic['Wolfram Lang Entity Cd'][1]=  ['wiki',   'wolfram language entity code (p4839)']
+attr_dic['Store Norske Leksikon Id'][1]=['wiki',   'store norske leksikon id (p4342)']
+attr_dic['Kivid Info Id'][1]=           ['wiki',   'kivid.info id (p7348)']
+attr_dic['Mineral Dealers'][1]=         ['webdat', 'Mineral Dealers']
+attr_dic['Other'][1]=                   ['wiki',   'other']
+attr_dic['Notes'][1]=                   ['webdat', 'Notes']
+attr_dic['Described by Source'][1]=     ['wiki',   'described by source (p1343)']
+
+
+
+
+
+
+
+
+
+
+
+
+
