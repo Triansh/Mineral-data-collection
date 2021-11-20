@@ -1,6 +1,5 @@
 import json
 import os
-import re
 import sys
 from datetime import datetime
 import logging
@@ -21,7 +20,7 @@ Result:
     4) Log files will be present in logs folder
 Note:
     If running from root of project, you can use this command
-    python scrapers/corpus.py minerals.txt data/wikipedia logs/
+    python scrapers/wikipedia.py minerals.txt data/wikipedia logs/
 """
 
 
@@ -98,7 +97,6 @@ class Scraper(object):
 
 
 if __name__ == "__main__":
-    # input_file_path = sys.argv[1]
-    # log_directory = sys.argv[2]
-    scraper = Scraper('./mineral_list.txt', './data/wikipedia', './logs')
+    input_file_path = sys.argv[1]
+    scraper = Scraper(input_file_path, '../data/wikipedia', './logs')
     scraper.get_data()

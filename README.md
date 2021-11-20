@@ -1,13 +1,12 @@
 # IRE Major Project
 
-### Collecting Domain specific data from wiki
-
-Main file is `corpus.py`. Ignore other `.py` files.
+## Overview
 
 ## Installation
 
-Ensure that you have python 3.6+ installed in your system. Run the following commands to activate
-the python environment.
+* Ensure that you have python 3.8+ installed in your system.
+* Clone/ Download the repository
+* Run the following commands to create and activate a python environment in the root folder.
 
 ```shell
 $ python -m venv venv
@@ -15,8 +14,6 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-### Resources
+## Directory Structure
 
-* https://github.com/siznax/wptools/wiki/Examples
-* https://towardsdatascience.com/how-to-build-your-own-datasets-or-corpora-from-wikipedia-3eb35d78baac
-* https://monashdatafluency.github.io/python-web-scraping/
+

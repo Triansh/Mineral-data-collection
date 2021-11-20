@@ -19,7 +19,7 @@ for c in main_df.columns:
     main_df[c] = main_df[c].apply(lambda x: x.replace('\r', ' ') if pd.notnull(x) else x)
 
 print(main_df.info())
-main_df.to_csv('./data/ima-list.csv')
+main_df.to_csv('../data/ima-list.csv')
 
 # df = pd.read_csv('./data/ima-list.csv')
 # print(df.info())
