@@ -2,6 +2,14 @@
 
 ## Overview
 
+We aim to collect data about a specific domain from various sources such as Wikipedia, wiki data and
+web pages, documents etc. Our final objective is to provide a database(JSON or CSV ) that contains
+information from all these sources in a coherent and concise manner. This database can be used by
+anyone who plans to work in a particular domain without worrying about data collection and data
+quality.
+
+The domain we have chosen for is **Minerals**.
+
 ## Installation
 
 * Ensure that you have python 3.8+ installed in your system.
@@ -50,10 +58,29 @@ directory.
 
 ## How to run
 
-Jupyter notebooks can be run cell by cell to obtain the output. 
+Jupyter notebooks can be run cell by cell to obtain the output. Any important information is
+described below below.
 
-The below section describes how to
-explicitly run `.py` files used in scraping.
+### Webmineral scraping
+
+The webmineral notebook uses selenium to retrieve data. It is expected to have a chromedriver
+installed in the system.
+
+You can install chromedriver from [here](https://chromedriver.chromium.org/downloads).
+
+### Notebooks for cleaning and merging
+
+Some cleaning notebooks use `nltk.corpus.wordnet` as a dependency. Ensure that you have download
+nltk wordnet to use it. To download, you can use the below procedure in a python interpreter.
+
+```python
+import nltk
+
+nltk.download('wordnet')
+```
+
+<hr>
+The below section describes how to explicitly run `.py` files used in scraping.
 
 ### Wikipedia scraping
 
