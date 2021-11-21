@@ -1,6 +1,6 @@
 import sys
-import pandas as pd
 
+import pandas as pd
 from tabula import read_pdf
 
 
@@ -9,7 +9,8 @@ def get_data(input_path):
     The function is responsible for extracting all the data covered
     in ruling lines and add it in a dataframe.
 
-    :param input_path: The path to input pdf
+    :param input_path: The path to input pdf. If none, assumes a pdf present
+     with path data/ima/ima-mineral-list.pdf
     :return: Dataframe combining all data
     """
     if not input_path:

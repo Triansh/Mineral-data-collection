@@ -120,5 +120,5 @@ class Scraper(object):
 
 if __name__ == "__main__":
     input_file_path = sys.argv[1]
-    scraper = Scraper(input_file_path, )
+    scraper = Scraper(input_file_path)
     scraper.get_data()
