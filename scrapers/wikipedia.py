@@ -1,30 +1,20 @@
 import json
+import logging
 import os
 import sys
 from datetime import datetime
-import logging
-from pprint import pprint
 
-import pandas as pd
 import wikipedia
 import wptools
 
-"""
-Args:
-    sys.argv[1]: Input file path (Path to minerals.txt file)
-    sys.argv[2]: Path of log directory (Path of data/wikipedia)
-Result:
-    1) Read data from input file given
-    2) Data collection and scraping
-    3) Output 2 files, one csv having data collected and other having a list of skipped data
-    4) Log files will be present in logs folder
-Note:
-    If running from root of project, you can use this command
-    python scrapers/wikipedia.py minerals.txt data/wikipedia logs/
-"""
-
 
 def get_logger(log_file_path):
+    """
+    Setup for logger
+
+    :param log_file_path: The file path where statements will be logged.
+    :return: instance of logger
+    """
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.INFO)
     file_handler = logging.FileHandler(log_file_path)
@@ -37,7 +27,18 @@ def get_logger(log_file_path):
 
 class Scraper(object):
 
-    def __init__(self, in_path, out_dir, log_dir):
+    def __init__(self, in_path, out_dir='./data/wikipedia', log_dir='./logs'):
+        """
+        The class is responsible for searching the mineral, retrieving its data,
+        storing the data into json, and dumping the json file in output directory.
+
+        The function retrieves minerals from input file, initializes required dictionaries.
+        We use current timestamp to name the output and log files.
+
+        :param in_path: path of file containing a list of mineral separated by \n
+        :param out_dir: path of output directory, defaults to data/wikipedia/
+        :param log_dir: path of logs directory, defaults to logs/
+        """
 
         input_path = os.path.join(os.getcwd(), in_path)
         date_time = datetime.now().strftime("%d-%m_%H:%M:%S")
@@ -50,12 +51,17 @@ class Scraper(object):
         with open(input_path, 'r') as f:
             self.minerals = [x.rstrip() for x in f][1761:]
 
-        self.df = pd.DataFrame()
         self.skipped_minerals = []
         self.all_min_dict = {}
         self.min_dict = {}
 
     def get_data(self):
+        """
+        The function shows a procedure which is repeated for each mineral
+        to retrieve its data.
+
+        :return: None
+        """
         for idx, m in enumerate(self.minerals):
             self.min_dict = {}
             self.search(m + ' mineral')
@@ -66,13 +72,24 @@ class Scraper(object):
         self.logger.info('All processing done!!🥳🥳')
 
     def search(self, topic):
+        """
+
+        The function first searches the relevant regarding the topic in wikipedia. Once we
+        obtain the page, we retrieve all its data from wikidata and wikipedia info boxes
+         using wptools library.
+         Once retrieved, update the dictionary that stores data of every mineral.
+         If search failed and we didn't receive any data, the mineral name is pushed in
+         a skipped minerals list.
+
+        :param topic: Topic to search for (in our case, mineral name)
+        :return:  None
+        """
         page = wikipedia.search(topic)
         if len(page) <= 0:
             print('No results')
             return
         page = wptools.page(page[0])
         page_data = page.get().data
-        pprint(page_data)
         if 'infobox' in page_data and page_data['infobox'] is not None:
             infobox = {k.lower(): v for k, v in page_data['infobox'].items()}
             self.min_dict.update(infobox)
@@ -90,6 +107,11 @@ class Scraper(object):
             self.all_min_dict[page_data['title']] = self.min_dict
 
     def load_data_in_files(self):
+        """
+        Dump the data obtained in the dictionary and the skipped list into output directory.
+
+        :return: None
+        """
         with open(self.save_json_path, 'w') as f:
             json.dump(self.all_min_dict, f)
         with open(self.skip_path, 'w') as f:
@@ -98,5 +120,5 @@ class Scraper(object):
 
 if __name__ == "__main__":
     input_file_path = sys.argv[1]
-    scraper = Scraper(input_file_path, '../data/wikipedia', './logs')
+    scraper = Scraper(input_file_path, )
     scraper.get_data()
