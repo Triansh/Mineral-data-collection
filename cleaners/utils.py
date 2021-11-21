@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import unidecode
+import numpy as np
 
 from copy import deepcopy
 from nltk.corpus import wordnet
@@ -76,3 +77,8 @@ def get_column_diff(df1, df2, col1, col2=None):
     set_1 = set(df1[col1].tolist()).difference(set(df2[col2].tolist()))
     set_2 = set(df2[col2].tolist()).difference(set(df1[col1].tolist()))
     return set_1, set_2
+
+def strip_data(df):
+    for col in df.columns:
+        df[col] = df[col].astype(str).str.strip().apply(lambda x: np.nan if x == 'nan' else x)
+    return df
